@@ -1,0 +1,101 @@
+[
+ {
+  "categories": {
+   "commitment": "Full-Time",
+   "location": "Various",
+   "team": "Operations",
+   "allLocations": [
+    "Various"
+   ]
+  },
+  "createdAt": 1792783193587,
+  "id": "03b12558-5f89-4701-b242-def610d652af",
+  "text": "Field Electro-Mechanical Tech",
+  "country": "US",
+  "workplaceType": "remote",
+  "hostedUrl": "https://jobs.lever.co/teleo/03b12558-5f89-4701-b242-def610d652af",
+  "applyUrl": "https://jobs.lever.co/teleo/03b12558-5f89-4701-b242-def610d652af/apply"
+ },
+ {
+  "categories": {
+   "commitment": "Full-Time",
+   "location": "Palo Alto, CA",
+   "team": "Operations",
+   "allLocations": [
+    "Palo Alto, CA"
+   ]
+  },
+  "createdAt": 1792782979716,
+  "id": "9d333c68-03ef-4916-ae71-4e52d198fe77",
+  "text": "Field Electro-Mechanical Tech",
+  "country": "US",
+  "workplaceType": "onsite",
+  "hostedUrl": "https://jobs.lever.co/teleo/9d333c68-03ef-4916-ae71-4e52d198fe77",
+  "applyUrl": "https://jobs.lever.co/teleo/9d333c68-03ef-4916-ae71-4e52d198fe77/apply"
+ },
+ {
+  "categories": {
+   "commitment": "Full-Time",
+   "location": "Palo Alto, CA",
+   "team": "Engineering",
+   "allLocations": [
+    "Palo Alto, CA"
+   ]
+  },
+  "createdAt": 1791442195008,
+  "id": "c534c928-5f8f-41a3-a200-58f9816cefc9",
+  "salaryRange": {
+   "min": 250000,
+   "max": 300000,
+   "currency": "USD",
+   "interval": "per-year-salary"
+  },
+  "salaryDescription": "<div>\n<ul data-lfile-container=\"6435359f-3b5a-4bb4-b4d6-02dba9f32121\" data-pm-slice=\"3 3 []\">\n<li>Took an autonomy product from prototype to multi-site commercial deployment</li>\n<li>Led autonomy work on defense programs</li>\n<li>Scaled a team through a period of fast growth</li>\n</ul>\n</div>",
+  "salaryDescriptionPlain": "Took an autonomy product from prototype to multi-site commercial deployment\nLed autonomy work on defense programs\nScaled a team through a period of fast growth\n",
+  "text": "Head of Autonomy",
+  "country": "US",
+  "workplaceType": "onsite",
+  "hostedUrl": "https://jobs.lever.co/teleo/c534c928-5f8f-41a3-a200-58f9816cefc9",
+  "applyUrl": "https://jobs.lever.co/teleo/c534c928-5f8f-41a3-a200-58f9816cefc9/apply"
+ },
+ {
+  "categories": {
+   "commitment": "Full-Time",
+   "location": "Palo Alto, CA",
+   "team": "Engineering",
+   "allLocations": [
+    "Palo Alto, CA"
+   ]
+  },
+  "createdAt": 1790627157529,
+  "id": "8c05e240-7b8f-43eb-b1e5-3e0bad8893b3",
+  "salaryRange": {
+   "min": 150000,
+   "max": 180000,
+   "currency": "USD",
+   "interval": "per-year-salary"
+  },
+  "text": "Lead Manufacturing Engineer",
+  "country": "US",
+  "workplaceType": "onsite",
+  "hostedUrl": "https://jobs.lever.co/teleo/8c05e240-7b8f-43eb-b1e5-3e0bad8893b3",
+  "applyUrl": "https://jobs.lever.co/teleo/8c05e240-7b8f-43eb-b1e5-3e0bad8893b3/apply"
+ },
+ {
+  "categories": {
+   "commitment": "Full-Time",
+   "location": "Palo Alto, CA",
+   "team": "Engineering",
+   "allLocations": [
+    "Palo Alto, CA"
+   ]
+  },
+  "createdAt": 1771025833177,
+  "id": "26c8c2c3-37df-4db0-8dc6-ee95953bc422",
+  "text": "Senior Autonomy Controls Engineer – Learning-Based Control",
+  "country": "US",
+  "workplaceType": "onsite",
+  "hostedUrl": "https://jobs.lever.co/teleo/26c8c2c3-37df-4db0-8dc6-ee95953bc422",
+  "applyUrl": "https://jobs.lever.co/teleo/26c8c2c3-37df-4db0-8dc6-ee95953bc422/apply"
+ }
+]

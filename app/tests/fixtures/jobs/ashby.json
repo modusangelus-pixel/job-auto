@@ -1,0 +1,115 @@
+{
+ "jobs": [
+  {
+   "id": "b2258b1e-336f-4412-aafb-7e5f4e612c7e",
+   "title": "System Designer",
+   "department": "Design",
+   "team": "Design",
+   "employmentType": "FullTime",
+   "location": "Sunnyvale",
+   "secondaryLocations": [],
+   "publishedAt": "2026-08-30T05:31:25.211+00:00",
+   "isListed": true,
+   "isRemote": false,
+   "workplaceType": "OnSite",
+   "address": {
+    "postalAddress": {
+     "addressRegion": "California",
+     "addressCountry": "United States",
+     "addressLocality": "Sunnyvale"
+    }
+   },
+   "jobUrl": "https://jobs.ashbyhq.com/applied/b2258b1e-336f-4412-aafb-7e5f4e612c7e",
+   "applyUrl": "https://jobs.ashbyhq.com/applied/b2258b1e-336f-4412-aafb-7e5f4e612c7e/application"
+  },
+  {
+   "id": "fd5f4f7b-baf1-4ec6-bc60-0a9b01bce470",
+   "title": "Intercompany Operations and Controls Manager",
+   "department": "Finance",
+   "team": "Finance",
+   "employmentType": "FullTime",
+   "location": "Sunnyvale",
+   "secondaryLocations": [],
+   "publishedAt": "2026-10-27T20:56:04.778+00:00",
+   "isListed": true,
+   "isRemote": false,
+   "workplaceType": "OnSite",
+   "address": {
+    "postalAddress": {
+     "addressRegion": "California",
+     "addressCountry": "United States",
+     "addressLocality": "Sunnyvale"
+    }
+   },
+   "jobUrl": "https://jobs.ashbyhq.com/applied/fd5f4f7b-baf1-4ec6-bc60-0a9b01bce470",
+   "applyUrl": "https://jobs.ashbyhq.com/applied/fd5f4f7b-baf1-4ec6-bc60-0a9b01bce470/application"
+  },
+  {
+   "id": "2d3fd355-9a70-4b15-893a-2ce719054d0b",
+   "title": "Senior Recruiter, G&A ",
+   "department": "People",
+   "team": "People",
+   "employmentType": "Temporary",
+   "location": "Sunnyvale",
+   "secondaryLocations": [],
+   "publishedAt": "2026-08-03T21:23:13.098+00:00",
+   "isListed": true,
+   "isRemote": false,
+   "workplaceType": "OnSite",
+   "address": {
+    "postalAddress": {
+     "addressRegion": "California",
+     "addressCountry": "United States",
+     "addressLocality": "Sunnyvale"
+    }
+   },
+   "jobUrl": "https://jobs.ashbyhq.com/applied/2d3fd355-9a70-4b15-893a-2ce719054d0b",
+   "applyUrl": "https://jobs.ashbyhq.com/applied/2d3fd355-9a70-4b15-893a-2ce719054d0b/application"
+  },
+  {
+   "id": "6288cb30-1d6d-4235-962a-d0e5d72a369a",
+   "title": "Software Engineer - Motion Planning (Fallback Stack)",
+   "department": "Software Engineering - Self-Driving",
+   "team": "Software Engineering - Self-Driving",
+   "employmentType": "FullTime",
+   "location": "Sunnyvale",
+   "secondaryLocations": [],
+   "publishedAt": "2026-03-12T04:28:03.149+00:00",
+   "isListed": true,
+   "isRemote": false,
+   "workplaceType": "OnSite",
+   "address": {
+    "postalAddress": {
+     "addressRegion": "California",
+     "addressCountry": "United States",
+     "addressLocality": "Sunnyvale"
+    }
+   },
+   "jobUrl": "https://jobs.ashbyhq.com/applied/6288cb30-1d6d-4235-962a-d0e5d72a369a",
+   "applyUrl": "https://jobs.ashbyhq.com/applied/6288cb30-1d6d-4235-962a-d0e5d72a369a/application"
+  },
+  {
+   "id": "c6e8a6f2-ae0a-46af-921b-e8909464df56",
+   "title": "ML Runtime Optimization Engineer",
+   "department": "Software Engineering - Self-Driving",
+   "team": "Software Engineering - Self-Driving",
+   "employmentType": "FullTime",
+   "location": "Sunnyvale",
+   "secondaryLocations": [],
+   "publishedAt": "2025-03-05T01:06:01.018+00:00",
+   "isListed": true,
+   "isRemote": false,
+   "workplaceType": "OnSite",
+   "address": {
+    "postalAddress": {
+     "addressRegion": "California",
+     "addressCountry": "United States",
+     "addressLocality": "Sunnyvale"
+    }
+   },
+   "jobUrl": "https://jobs.ashbyhq.com/applied/c6e8a6f2-ae0a-46af-921b-e8909464df56",
+   "applyUrl": "https://jobs.ashbyhq.com/applied/c6e8a6f2-ae0a-46af-921b-e8909464df56/application"
+  }
+ ],
+ "apiVersion": "1"
+}

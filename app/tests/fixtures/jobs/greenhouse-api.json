@@ -1,0 +1,202 @@
+{
+ "jobs": [
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/scaleai/jobs/4739727005",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4457357005,
+   "location": {
+    "name": "San Francisco, CA; New York, NY"
+   },
+   "metadata": [
+    {
+     "id": 7904378005,
+     "name": "Domain",
+     "value": null,
+     "value_type": "multi_select"
+    },
+    {
+     "id": 9832886005,
+     "name": "External Department",
+     "value": "Marketing and Communications",
+     "value_type": "single_select"
+    }
+   ],
+   "id": 4739727005,
+   "updated_at": "2026-10-22T14:10:38-04:00",
+   "requisition_id": "GH-2378",
+   "title": "Account Based Marketing Lead",
+   "company_name": "Scale AI",
+   "first_published": "2026-10-01T19:38:55-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/scaleai/jobs/4715976005",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4445395005,
+   "location": {
+    "name": "San Francisco, CA; New York, NY"
+   },
+   "metadata": [
+    {
+     "id": 7904378005,
+     "name": "Domain",
+     "value": null,
+     "value_type": "multi_select"
+    },
+    {
+     "id": 9832886005,
+     "name": "External Department",
+     "value": "Sales",
+     "value_type": "single_select"
+    }
+   ],
+   "id": 4715976005,
+   "updated_at": "2026-10-22T14:10:38-04:00",
+   "requisition_id": "GH-2254",
+   "title": "AI Advisory Principal",
+   "company_name": "Scale AI",
+   "first_published": "2026-07-16T14:35:44-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/scaleai/jobs/4609736005",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4395237005,
+   "location": {
+    "name": "San Francisco, CA"
+   },
+   "metadata": [
+    {
+     "id": 7904378005,
+     "name": "Domain",
+     "value": null,
+     "value_type": "multi_select"
+    },
+    {
+     "id": 9832886005,
+     "name": "External Department",
+     "value": "Product and Design",
+     "value_type": "single_select"
+    }
+   ],
+   "id": 4609736005,
+   "updated_at": "2026-10-22T14:10:38-04:00",
+   "requisition_id": "GH-1787",
+   "title": "AI Product Manager (Coding/Multimodal)",
+   "company_name": "Scale AI",
+   "first_published": "2025-09-18T12:43:22-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/scaleai/jobs/4745295005",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4459895005,
+   "location": {
+    "name": "Washington, DC"
+   },
+   "metadata": [
+    {
+     "id": 7904378005,
+     "name": "Domain",
+     "value": null,
+     "value_type": "multi_select"
+    },
+    {
+     "id": 9832886005,
+     "name": "External Department",
+     "value": "Public Sector",
+     "value_type": "single_select"
+    }
+   ],
+   "id": 4745295005,
+   "updated_at": "2026-10-28T20:41:15-04:00",
+   "requisition_id": "GH-2396",
+   "title": "Contracts Manager",
+   "company_name": "Scale AI",
+   "first_published": "2026-10-19T23:50:14-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/scaleai/jobs/4731928005",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4453552005,
+   "location": {
+    "name": "San Francisco, CA; New York, NY"
+   },
+   "metadata": [
+    {
+     "id": 7904378005,
+     "name": "Domain",
+     "value": null,
+     "value_type": "multi_select"
+    },
+    {
+     "id": 9832886005,
+     "name": "External Department",
+     "value": "Operations",
+     "value_type": "single_select"
+    }
+   ],
+   "id": 4731928005,
+   "updated_at": "2026-10-22T14:10:38-04:00",
+   "requisition_id": "GH-2356",
+   "title": "Contributor Experience Manager, Community",
+   "company_name": "Scale AI",
+   "first_published": "2026-09-09T13:07:03-04:00",
+   "language": "en",
+   "application_deadline": null
+  }
+ ],
+ "meta": {
+  "total": 5
+ }
+}

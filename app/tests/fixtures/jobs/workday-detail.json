@@ -1,0 +1,34 @@
+{
+  "jobPostingInfo": {
+    "id": "4460a745a42c1001105e11a94fc10000",
+    "title": "Senior Field Service Technician - Electrification",
+    "jobDescription": "<p style=\"text-align:left !important\">At ABB, we help industries run leaner and cleaner—and every person here makes that happen. You’ll be empowered to lead, supported to grow, and proud of the impact...",
+    "location": "Saint-Laurent, Quebec, Canada",
+    "postedOn": "Posted Today",
+    "startDate": "2026-11-04",
+    "timeType": "Full time",
+    "jobReqId": "JR00035712",
+    "jobPostingId": "Senior-Field-Service-Technician---Electrification_JR00035712",
+    "jobPostingSiteId": "External_Career_Page",
+    "country": {
+      "descriptor": "Canada",
+      "id": "a30a87ed25634629aa6c3958aa2b91ea"
+    },
+    "canApply": true,
+    "posted": true,
+    "includeResumeParsing": true,
+    "jobRequisitionLocation": {
+      "descriptor": "Saint-Laurent, Quebec, Canada",
+      "country": {
+        "descriptor": "Canada",
+        "id": "a30a87ed25634629aa6c3958aa2b91ea",
+        "alpha2Code": "CA"
+      }
+    },
+    "externalUrl": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Saint-Laurent-Quebec-Canada/Senior-Field-Service-Technician---Electrification_JR00035712",
+    "questionnaireId": "f9a1899e0670100190a2346d69ba0000",
+    "timeLeftToApply": "27 days left to apply",
+    "endDate": "2026-12-02",
+    "jobPostingEndDateAsText": "End Date: December 2, 2026"
+  }
+}

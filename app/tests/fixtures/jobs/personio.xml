@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workzag-jobs>
+<position>
+    <id>2784189</id>
+    <subcompany>IPG Automotive GmbH</subcompany>
+    <office>Karlsruhe Fautenbruchstraße</office>
+    <department>Administration &amp; Finance</department>
+    <recruitingCategory>Festangestellte </recruitingCategory>
+    <name>(Senior) Compliance &amp; Legal Manager (m/w/d)</name>
+    
+    <employmentType>permanent</employmentType>
+    <seniority>experienced</seniority>
+    <schedule>full-time</schedule>
+    <yearsOfExperience>2-5</yearsOfExperience>
+    <occupation>general_and_other_legal</occupation>
+    <occupationCategory>legal</occupationCategory>
+    <createdAt>2026-09-07T10:44:16+00:00</createdAt>
+</position>
+<position>
+    <id>2820574</id>
+    <subcompany>IPG Automotive GmbH</subcompany>
+    <office>Karlsruhe Fautenbruchstraße</office>
+    <department>Marketing &amp; Communications</department>
+    <recruitingCategory>Festangestellte mit Probeaufgabe</recruitingCategory>
+    <name>Digital Marketing Manager (m/w/d)</name>
+    
+    <employmentType>permanent</employmentType>
+    <seniority>experienced</seniority>
+    <schedule>full-time</schedule>
+    <yearsOfExperience>2-5</yearsOfExperience>
+    <occupation>digital_content_development</occupation>
+    <occupationCategory>editorial_and_writing</occupationCategory>
+    <createdAt>2026-09-30T08:53:05+00:00</createdAt>
+</position>
+<position>
+    <id>2422951</id>
+    <office>alle Standorte</office>
+    <department>Human Resources</department>
+    <recruitingCategory>Festangestellte </recruitingCategory>
+    <name>Initiativbewerbung Festanstellung</name>
+    
+    <employmentType>permanent</employmentType>
+    <seniority>entry-level</seniority>
+    <schedule>full-or-part-time</schedule>
+    <occupation>general_and_other_it_software</occupation>
+    <occupationCategory>it_software</occupationCategory>
+    <createdAt>2025-11-11T10:30:46+00:00</createdAt>
+</position>
+<position>
+    <id>2434707</id>
+    <office>alle Standorte</office>
+    <department>Human Resources</department>
+    <recruitingCategory>Werkstudenten</recruitingCategory>
+    <name>Initiativbewerbung Studierende</name>
+    
+    <employmentType>intern</employmentType>
+    <seniority>student</seniority>
+    <schedule>full-or-part-time</schedule>
+    <occupation>general_and_other_it_software</occupation>
+    <occupationCategory>it_software</occupationCategory>
+    <createdAt>2025-11-20T16:35:03+00:00</createdAt>
+</position>
+<position>
+    <id>2397199</id>
+    <subcompany>IPG Automotive GmbH</subcompany>
+    <office>Karlsruhe Fautenbruchstraße</office>
+    <department>IT</department>
+    <recruitingCategory>Festangestellte mit Probeaufgabe</recruitingCategory>
+    <name>IT-Systemadministrator Windows (m/w/d)</name>
+    
+    <employmentType>permanent</employmentType>
+    <seniority>experienced</seniority>
+    <schedule>full-time</schedule>
+    <yearsOfExperience>2-5</yearsOfExperience>
+    <occupation>desktop_service_and_support</occupation>
+    <occupationCategory>it_software</occupationCategory>
+    <createdAt>2025-10-21T12:07:01+00:00</createdAt>
+</position>
+</workzag-jobs>

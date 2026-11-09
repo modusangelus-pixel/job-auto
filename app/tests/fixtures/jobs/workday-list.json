@@ -1,0 +1,5317 @@
+{
+  "total": 2000,
+  "jobPostings": [
+    {
+      "title": "Fabrication Supervisor - 2nd Shift",
+      "externalPath": "/job/USA-NC-Mebane/Fabrication-Supervisor---2nd-Shift_JR00043434",
+      "locationsText": "USA, NC, Mebane",
+      "postedOn": "Posted Today",
+      "bulletFields": [
+        "JR00043434"
+      ]
+    },
+    {
+      "title": "1st Shift Press Team Lead",
+      "externalPath": "/job/USA-AR-Jonesboro/XMLNAME-1st-Shift-Press-Team-Lead_JR00052649-1",
+      "locationsText": "USA, AR, Jonesboro",
+      "postedOn": "Posted Today",
+      "bulletFields": [
+        "JR00052649"
+      ]
+    },
+    {
+      "title": "Senior Field Service Technician - Electrification",
+      "externalPath": "/job/Saint-Laurent-Quebec-Canada/Senior-Field-Service-Technician---Electrification_JR00035712",
+      "locationsText": "Saint-Laurent, Quebec, Canada",
+      "postedOn": "Posted Today",
+      "bulletFields": [
+        "JR00035712"
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "facetParameter": "jobFamilyGroup",
+      "descriptor": "Job Category",
+      "values": [
+        {
+          "descriptor": "Operations",
+          "id": "094a0cd6eed71000b71634094b7d0000",
+          "count": 640
+        },
+        {
+          "descriptor": "Marketing, Sales & Product Management",
+          "id": "094a0cd6eed71000b6e4b66902ef0001",
+          "count": 377
+        },
+        {
+          "descriptor": "Service",
+          "id": "094a0cd6eed71000b6ee241ef5a40000",
+          "count": 233
+        },
+        {
+          "descriptor": "Administration",
+          "id": "094a0cd6eed71000b6e4bc6da5250000",
+          "count": 225
+        },
+        {
+          "descriptor": "Engineering",
+          "id": "094a0cd6eed71000b6efa5c959010000",
+          "count": 185
+        },
+        {
+          "descriptor": "Research & Development",
+          "id": "094a0cd6eed71000b6e4c13e20230000",
+          "count": 135
+        },
+        {
+          "descriptor": "Project Execution",
+          "id": "094a0cd6eed71000b6e4bf6f48eb0000",
+          "count": 77
+        },
+        {
+          "descriptor": "Finance",
+          "id": "094a0cd6eed71000b6e60bc695320000",
+          "count": 69
+        },
+        {
+          "descriptor": "Information Systems",
+          "id": "094a0cd6eed71000b6e55e3bb9680000",
+          "count": 57
+        },
+        {
+          "descriptor": "Product Development (ELSP Pilot)",
+          "id": "094a0cd6eed71000b6ee211e24c60000",
+          "count": 35
+        },
+        {
+          "descriptor": "Digital",
+          "id": "094a0cd6eed71000b6e4c43fdb520000",
+          "count": 23
+        },
+        {
+          "descriptor": "Human Resources",
+          "id": "094a0cd6eed71000b71632d59a120000",
+          "count": 20
+        },
+        {
+          "descriptor": "HSE, Security & Sustainability",
+          "id": "094a0cd6eed71000b6e55da1ce320000",
+          "count": 15
+        },
+        {
+          "descriptor": "Executive & General Management",
+          "id": "094a0cd6eed71000b6e4b36788470000",
+          "count": 7
+        },
+        {
+          "descriptor": "Communications & Public Affairs",
+          "id": "094a0cd6eed71000b6eef9ce39350000",
+          "count": 7
+        },
+        {
+          "descriptor": "Real Estate",
+          "id": "094a0cd6eed71000b6ed2d80c5a00000",
+          "count": 6
+        },
+        {
+          "descriptor": "Legal & Integrity",
+          "id": "094a0cd6eed71000b7162335fd700000",
+          "count": 2
+        },
+        {
+          "descriptor": "Strategy and M&A",
+          "id": "094a0cd6eed71000b6ec1aa9c9350000",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "facetParameter": "workerSubType",
+      "descriptor": "Job Type",
+      "values": [
+        {
+          "descriptor": "Regular",
+          "id": "094a0cd6eed71000b6d0eb25d3b10000",
+          "count": 1809
+        },
+        {
+          "descriptor": "Intern/Student (Fixed Term)",
+          "id": "094a0cd6eed71000b6d0ebbfe9790000",
+          "count": 120
+        },
+        {
+          "descriptor": "Fixed Term (Fixed Term)",
+          "id": "094a0cd6eed71000b6d0ec59db1e0000",
+          "count": 95
+        },
+        {
+          "descriptor": "Non-FTE Relevant",
+          "id": "094a0cd6eed71000b6bd06c2c8790000",
+          "count": 40
+        },
+        {
+          "descriptor": "Apprentice (Fixed Term)",
+          "id": "094a0cd6eed71000b6d0ecf390240000",
+          "count": 37
+        },
+        {
+          "descriptor": "Casual (Fixed Term)",
+          "id": "094a0cd6eed71000b6d0ebbfe9790001",
+          "count": 8
+        },
+        {
+          "descriptor": "Exceptional Non-Employee",
+          "id": "094a0cd6eed71000b6bd058ea1320000",
+          "count": 5
+        },
+        {
+          "descriptor": "Contractor",
+          "id": "094a0cd6eed71000b6bd062852080000",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "facetParameter": "timeType",
+      "descriptor": "Time Type",
+      "values": [
+        {
+          "descriptor": "Full time",
+          "id": "556b49862a3b1007291de3d561f30002",
+          "count": 1998
+        },
+        {
+          "descriptor": "Part time",
+          "id": "556b49862a3b1007291de3d561f30001",
+          "count": 35
+        }
+      ]
+    },
+    {
+      "facetParameter": "locationMainGroup",
+      "values": [
+        {
+          "facetParameter": "locationCountry",
+          "descriptor": "Country",
+          "values": [
+            {
+              "descriptor": "Argentina",
+              "id": "e42ad5eac46d4cc9b367ceaef42577c5",
+              "count": 5
+            },
+            {
+              "descriptor": "Australia",
+              "id": "d903bb3fedad45039383f6de334ad4db",
+              "count": 7
+            },
+            {
+              "descriptor": "Austria",
+              "id": "d004c0d1a6c84511ab048669fcdf9fd7",
+              "count": 19
+            },
+            {
+              "descriptor": "Belgium",
+              "id": "a04ea128f43a42e59b1e6a19e8f0b374",
+              "count": 11
+            },
+            {
+              "descriptor": "Bosnia and Herzegovina",
+              "id": "03d13abe000e4b15bb68d39a597d439d",
+              "count": 4
+            },
+            {
+              "descriptor": "Brazil",
+              "id": "1a29bb1357b240ab99a2fa755cc87c0e",
+              "count": 12
+            },
+            {
+              "descriptor": "Bulgaria",
+              "id": "25f4875dc598484dbeee857eb2d81652",
+              "count": 65
+            },
+            {
+              "descriptor": "Canada",
+              "id": "a30a87ed25634629aa6c3958aa2b91ea",
+              "count": 68
+            },
+            {
+              "descriptor": "Chile",
+              "id": "53fe09ef12b9408682a1d2439823f2e0",
+              "count": 10
+            },
+            {
+              "descriptor": "China",
+              "id": "6cb77610a8a543aea2d6bc10457e35d4",
+              "count": 360
+            },
+            {
+              "descriptor": "Colombia",
+              "id": "e8106cd6a3534f2dba6fdee2d41db89d",
+              "count": 3
+            },
+            {
+              "descriptor": "Croatia",
+              "id": "1face6f426c14de9979a134697da0db3",
+              "count": 8
+            },
+            {
+              "descriptor": "Czechia",
+              "id": "fc078443155c4ad294201ecf5a61a499",
+              "count": 57
+            },
+            {
+              "descriptor": "Denmark",
+              "id": "49ab063f422741e2aef271de00efeac8",
+              "count": 12
+            },
+            {
+              "descriptor": "Egypt",
+              "id": "d865e83093ad42319653b08e61f7db49",
+              "count": 10
+            },
+            {
+              "descriptor": "Estonia",
+              "id": "038b0482bfea403abb61c9bcc3d7eb60",
+              "count": 9
+            },
+            {
+              "descriptor": "Finland",
+              "id": "0afb2fa656da42e8bfb6d47bd24a26fa",
+              "count": 24
+            },
+            {
+              "descriptor": "France",
+              "id": "54c5b6971ffb4bf0b116fe7651ec789a",
+              "count": 21
+            },
+            {
+              "descriptor": "Germany",
+              "id": "dcc5b7608d8644b3a93716604e78e995",
+              "count": 133
+            },
+            {
+              "descriptor": "Greece",
+              "id": "566388c1eb974c42bd9e3da4c2f57d60",
+              "count": 6
+            },
+            {
+              "descriptor": "Hungary",
+              "id": "9db257f5937e4421b2fac64eec6832f8",
+              "count": 10
+            },
+            {
+              "descriptor": "India",
+              "id": "c4f78be1a8f14da0ab49ce1162348a5e",
+              "count": 191
+            },
+            {
+              "descriptor": "Indonesia",
+              "id": "b31234dbcdda4da9ba8fa073c5944e36",
+              "count": 12
+            },
+            {
+              "descriptor": "Ireland",
+              "id": "04a05835925f45b3a59406a2a6b72c8a",
+              "count": 7
+            },
+            {
+              "descriptor": "Italy",
+              "id": "8cd04a563fd94da7b06857a79faaf815",
+              "count": 76
+            },
+            {
+              "descriptor": "Japan",
+              "id": "8b705da2becf43cfaccc091da0988ab2",
+              "count": 10
+            },
+            {
+              "descriptor": "Kazakhstan",
+              "id": "db69ebac446c11de98360015c5e6daf6",
+              "count": 2
+            },
+            {
+              "descriptor": "Korea, Republic of",
+              "id": "7a5a2aadf9d34086a2bfbfd408bc28da",
+              "count": 16
+            },
+            {
+              "descriptor": "Latvia",
+              "id": "1c026f3b1b8640d8bdfcb95466663e4d",
+              "count": 2
+            },
+            {
+              "descriptor": "Lithuania",
+              "id": "8a0328effd25491fb8e6a08801f08e94",
+              "count": 2
+            },
+            {
+              "descriptor": "Luxembourg",
+              "id": "328b82f597514643a7683a78fc67c3f1",
+              "count": 1
+            },
+            {
+              "descriptor": "Malaysia",
+              "id": "972dc4ba8d454bc0b893ff84b1529077",
+              "count": 19
+            },
+            {
+              "descriptor": "Mexico",
+              "id": "e2adff9272454660ac4fdb56fc70bb51",
+              "count": 82
+            },
+            {
+              "descriptor": "Netherlands",
+              "id": "9696868b09c64d52a62ee13b052383cc",
+              "count": 33
+            },
+            {
+              "descriptor": "New Zealand",
+              "id": "55273a1b49934d97ae15342ef51f6b95",
+              "count": 7
+            },
+            {
+              "descriptor": "Norway",
+              "id": "d07f8ca8625e4345b98a91d0558b872a",
+              "count": 10
+            },
+            {
+              "descriptor": "Oman",
+              "id": "e8424552931249ba9c6c1d7706cdc01d",
+              "count": 1
+            },
+            {
+              "descriptor": "Panama",
+              "id": "a390372e575c41ecb7240c51ce9067bd",
+              "count": 4
+            },
+            {
+              "descriptor": "Peru",
+              "id": "0eb156ca580c4db786a7894bdaa77450",
+              "count": 5
+            },
+            {
+              "descriptor": "Philippines",
+              "id": "e56f1daf83e04bacae794ba5c5593560",
+              "count": 4
+            },
+            {
+              "descriptor": "Poland",
+              "id": "131d5ac7e3ee4d7b962bdc96e498e412",
+              "count": 93
+            },
+            {
+              "descriptor": "Portugal",
+              "id": "2e8c5034deb045d49315417c347472ca",
+              "count": 7
+            },
+            {
+              "descriptor": "Puerto Rico",
+              "id": "0a076377c3d94bc1b4ed46b4e7d82a50",
+              "count": 11
+            },
+            {
+              "descriptor": "Qatar",
+              "id": "f5ff182c7fab406bbb110cc1f7e99064",
+              "count": 3
+            },
+            {
+              "descriptor": "Romania",
+              "id": "f2e609fe92974a55a05fc1cdc2852122",
+              "count": 3
+            },
+            {
+              "descriptor": "Saudi Arabia",
+              "id": "50423b5190ad49bb89e94cd58dfaad69",
+              "count": 7
+            },
+            {
+              "descriptor": "Singapore",
+              "id": "80938777cac5440fab50d729f9634969",
+              "count": 16
+            },
+            {
+              "descriptor": "Slovakia",
+              "id": "d2f29df0c90f4cea9e7d17f2ed8a86ad",
+              "count": 2
+            },
+            {
+              "descriptor": "Slovenia",
+              "id": "db69d9f0446c11de98360015c5e6daf6",
+              "count": 1
+            },
+            {
+              "descriptor": "South Africa",
+              "id": "4db3c26940b944919b83612cc1193eed",
+              "count": 6
+            },
+            {
+              "descriptor": "Spain",
+              "id": "bd34c524a6a04ae6915f5d96fa086199",
+              "count": 38
+            },
+            {
+              "descriptor": "Sweden",
+              "id": "6a800a4736884df5826858d435650f45",
+              "count": 66
+            },
+            {
+              "descriptor": "Switzerland",
+              "id": "187134fccb084a0ea9b4b95f23890dbe",
+              "count": 44
+            },
+            {
+              "descriptor": "Taiwan/Chinese Taipei",
+              "id": "a4e08b475d6a4176853c9d1cb9854e02",
+              "count": 8
+            },
+            {
+              "descriptor": "Thailand",
+              "id": "873d0f604e3b458c990cb4d83a5c0f14",
+              "count": 10
+            },
+            {
+              "descriptor": "Türkiye",
+              "id": "c2e3bac5bbbb47b29dfc6e8b56a1586e",
+              "count": 12
+            },
+            {
+              "descriptor": "United Arab Emirates",
+              "id": "7b4fa1f369bd4604ba3692682fcbe345",
+              "count": 6
+            },
+            {
+              "descriptor": "United Kingdom",
+              "id": "29247e57dbaf46fb855b224e03170bc7",
+              "count": 35
+            },
+            {
+              "descriptor": "United States of America",
+              "id": "bc33aa3152ec42d4995f4791a106ed09",
+              "count": 609
+            },
+            {
+              "descriptor": "Uruguay",
+              "id": "db69b538446c11de98360015c5e6daf6",
+              "count": 1
+            },
+            {
+              "descriptor": "Vietnam",
+              "id": "db69e8c8446c11de98360015c5e6daf6",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "facetParameter": "locationRegionStateProvince",
+          "descriptor": "Region/State",
+          "values": [
+            {
+              "descriptor": "Aargau",
+              "id": "05bbbb4d88964ad48dfb6ad6d45ca249",
+              "count": 28
+            },
+            {
+              "descriptor": "Aberdeenshire",
+              "id": "fb2c7364c9624dfcbafbb7a8e97df988",
+              "count": 4
+            },
+            {
+              "descriptor": "Abu Dhabi",
+              "id": "f4836247cfd04b6d974fc72b574492c5",
+              "count": 3
+            },
+            {
+              "descriptor": "Ad Dawhah",
+              "id": "4f82bebcc58a49e5942a3a9ef6528b79",
+              "count": 1
+            },
+            {
+              "descriptor": "Aichi",
+              "id": "9d9ed12bc82a454da2b507f5ee39b7d6",
+              "count": 1
+            },
+            {
+              "descriptor": "Ain",
+              "id": "5396e37565e04b0ea7fc7f50eaaeb3d8",
+              "count": 6
+            },
+            {
+              "descriptor": "Alabama",
+              "id": "31475924e5494080a8a458bf4fa293ed",
+              "count": 20
+            },
+            {
+              "descriptor": "Alaska",
+              "id": "c8891443252c4c4ea9427be64d755b9f",
+              "count": 10
+            },
+            {
+              "descriptor": "Alberta",
+              "id": "588eb24f950e4c5b93d5ad3f37aebad2",
+              "count": 5
+            },
+            {
+              "descriptor": "American Samoa",
+              "id": "c89eea109e00414ebd2bcf86c3657443",
+              "count": 12
+            },
+            {
+              "descriptor": "Anhui",
+              "id": "75fdf1c4ee6f425e935f84a6e540e2e6",
+              "count": 3
+            },
+            {
+              "descriptor": "Antwerp",
+              "id": "4d6f06f6ee3c4b7a9670eee7717e1f0a",
+              "count": 1
+            },
+            {
+              "descriptor": "Arequipa",
+              "id": "568bc1d4e4c14968a25350e896a74a6a",
+              "count": 1
+            },
+            {
+              "descriptor": "Arizona",
+              "id": "c7b20b0d4bc04711a00900569e9afabd",
+              "count": 29
+            },
+            {
+              "descriptor": "Arkansas",
+              "id": "cea6c5355e1b4983b5fd0640310385b5",
+              "count": 51
+            },
+            {
+              "descriptor": "Asturias",
+              "id": "794f816596a5451f9d47eb45dc2e7f2f",
+              "count": 2
+            },
+            {
+              "descriptor": "Attiki",
+              "id": "1b095f8857b542da9067813b62669847",
+              "count": 5
+            },
+            {
+              "descriptor": "Auckland",
+              "id": "3ee128e099f3417fb64d6bfde4072001",
+              "count": 3
+            },
+            {
+              "descriptor": "Bắc Ninh",
+              "id": "88e4bde5d8a04144b4564c14354a1fbb",
+              "count": 1
+            },
+            {
+              "descriptor": "Baden-Wurttemberg",
+              "id": "fc63a555e1d541379dde6e260bfad7d2",
+              "count": 62
+            },
+            {
+              "descriptor": "Bahia",
+              "id": "549de6b658794d558d591421267b35c3",
+              "count": 3
+            },
+            {
+              "descriptor": "Bangkok",
+              "id": "9f7476048d3b4903a0af3f257bfc6d2c",
+              "count": 8
+            },
+            {
+              "descriptor": "Banten",
+              "id": "2d5fe5ad9729417686798898d5c93040",
+              "count": 2
+            },
+            {
+              "descriptor": "Barcelona",
+              "id": "606f501c3a4f4fdc92fdc8000fc9be83",
+              "count": 8
+            },
+            {
+              "descriptor": "Bavaria",
+              "id": "bd89fff5ffa6440a9abeaf2c5c1dc37c",
+              "count": 2
+            },
+            {
+              "descriptor": "Beijing",
+              "id": "4b194fc4ae3b4cbe95a1b379454e1775",
+              "count": 101
+            },
+            {
+              "descriptor": "Bergamo",
+              "id": "eda3dda225044998af70f6f7381355df",
+              "count": 29
+            },
+            {
+              "descriptor": "Berlin",
+              "id": "1e39a77dca884da894bb60ca4b51e643",
+              "count": 6
+            },
+            {
+              "descriptor": "Bologna",
+              "id": "0ca2b36fb481460082672f7074946058",
+              "count": 1
+            },
+            {
+              "descriptor": "Bouches-du-Rhone",
+              "id": "f463cbd7e3dd46aea0424437b00d949a",
+              "count": 3
+            },
+            {
+              "descriptor": "Brandenburg",
+              "id": "ecebc64d15244ceabcd6f76f623c0cfd",
+              "count": 5
+            },
+            {
+              "descriptor": "Bratislavský kraj",
+              "id": "8540d642065049f7a174acaffb27ee51",
+              "count": 2
+            },
+            {
+              "descriptor": "British Columbia",
+              "id": "cb76ca97a13347548a188f23caa96b17",
+              "count": 6
+            },
+            {
+              "descriptor": "Buckinghamshire",
+              "id": "c24d0bdf146944888d19126b55c10fed",
+              "count": 1
+            },
+            {
+              "descriptor": "Bucureşti",
+              "id": "c1422b7a41c940be8a955e6e1441d29e",
+              "count": 2
+            },
+            {
+              "descriptor": "Budapest",
+              "id": "2b69463cae974907ac1859380f894514",
+              "count": 9
+            },
+            {
+              "descriptor": "Buenos Aires",
+              "id": "758d5939ee334162b54a2ef2d7d29ab6",
+              "count": 1
+            },
+            {
+              "descriptor": "Cairo",
+              "id": "292e38e19a834a79864f0c3c6c3625af",
+              "count": 7
+            },
+            {
+              "descriptor": "California",
+              "id": "ec3d210e4240442e99a28fa70419aec5",
+              "count": 26
+            },
+            {
+              "descriptor": "Cambridgeshire",
+              "id": "3d4e997abf4a4c3eb677c519353c31a4",
+              "count": 6
+            },
+            {
+              "descriptor": "Capital Federal",
+              "id": "6cdeda8e24514447802492d01abfdbb6",
+              "count": 3
+            },
+            {
+              "descriptor": "Central Singapore",
+              "id": "f9826c11d56f47b68b9e31b4cba4819f",
+              "count": 16
+            },
+            {
+              "descriptor": "Cheshire",
+              "id": "c473b86d342d49e68727b23ef85f4bbb",
+              "count": 10
+            },
+            {
+              "descriptor": "Chhattīsgarh",
+              "id": "837844a9f3d5402a8e75a7e1ff99b8cc",
+              "count": 1
+            },
+            {
+              "descriptor": "Chongqing",
+              "id": "c99cdae8a1b946038851ad780801da3d",
+              "count": 4
+            },
+            {
+              "descriptor": "Chungcheongnam-do",
+              "id": "14aa7bcac31b47d18727e4b031377d16",
+              "count": 9
+            },
+            {
+              "descriptor": "Ciudad de Mexico",
+              "id": "d22bee76e28110000edbaff29a73005a",
+              "count": 9
+            },
+            {
+              "descriptor": "Coahuila",
+              "id": "dc448b82dcaf493c80715385cebf2e6e",
+              "count": 2
+            },
+            {
+              "descriptor": "Coimbra",
+              "id": "2ab3f21a16234616ad03a3935f109e60",
+              "count": 1
+            },
+            {
+              "descriptor": "Colorado",
+              "id": "a83d6eabae3b49718c4ce09eeb66fd0b",
+              "count": 23
+            },
+            {
+              "descriptor": "Connecticut",
+              "id": "bffb3e4c9a4a4542bc6bd075a4c26247",
+              "count": 23
+            },
+            {
+              "descriptor": "Delaware",
+              "id": "18b4cf9ddb4e4542a39614cb55b4dde7",
+              "count": 14
+            },
+            {
+              "descriptor": "District of Columbia",
+              "id": "0d2bcd0308f541938f3ae29e7cc69ae0",
+              "count": 15
+            },
+            {
+              "descriptor": "Distrito Capital de Bogotá",
+              "id": "a2b67cd4a7c742abb74218ef226aef4d",
+              "count": 1
+            },
+            {
+              "descriptor": "Dubai",
+              "id": "1db225a7cdc64df8b1dda64a09ec71f0",
+              "count": 3
+            },
+            {
+              "descriptor": "Dublin",
+              "id": "deaadda0e7dc4726a28d1221725f3de5",
+              "count": 6
+            },
+            {
+              "descriptor": "Eastern Region",
+              "id": "cf4ad1438722486b892064dd639c1936",
+              "count": 3
+            },
+            {
+              "descriptor": "Flemish Brabant",
+              "id": "8d46983168974d2e9c710d3bc923145d",
+              "count": 8
+            },
+            {
+              "descriptor": "Florida",
+              "id": "9c1a239b35bd4598856e5393b249b8a1",
+              "count": 38
+            },
+            {
+              "descriptor": "Frosinone",
+              "id": "a907d6a8ede1444a9702a776d0840965",
+              "count": 6
+            },
+            {
+              "descriptor": "Fujian",
+              "id": "36dd74db17974762b59b8105b3c2f4db",
+              "count": 81
+            },
+            {
+              "descriptor": "Gauteng",
+              "id": "8dd48c26171d4a2082c000b8a986defc",
+              "count": 6
+            },
+            {
+              "descriptor": "Gelderland",
+              "id": "ae966049110245e3a6ea5c3df561961d",
+              "count": 7
+            },
+            {
+              "descriptor": "Genova",
+              "id": "f2ab2196a5e646ceb1bacb7a0064fbae",
+              "count": 6
+            },
+            {
+              "descriptor": "Georgia",
+              "id": "dec8eabbb13d45bdb159b8e25d896110",
+              "count": 45
+            },
+            {
+              "descriptor": "Gloucestershire",
+              "id": "9ac17062d1c74038af5eb5c144798f4d",
+              "count": 4
+            },
+            {
+              "descriptor": "Grad Zagreb",
+              "id": "c274de30a29e46a9b7301bbbd40602d7",
+              "count": 7
+            },
+            {
+              "descriptor": "Greater Poland",
+              "id": "ef489864f68f49d3981170daeca729a2",
+              "count": 1
+            },
+            {
+              "descriptor": "Guam",
+              "id": "65ca11288f1d4599bef44996d074b286",
+              "count": 10
+            },
+            {
+              "descriptor": "Guangdong",
+              "id": "9171988616764d5ba2a87a518af470d6",
+              "count": 13
+            },
+            {
+              "descriptor": "Guangxi",
+              "id": "2d8d31a9f9a44b2d8c1216938adf6adf",
+              "count": 1
+            },
+            {
+              "descriptor": "Guipuzcoa",
+              "id": "73aa151864da4c4ab577668913c717ed",
+              "count": 1
+            },
+            {
+              "descriptor": "Gujarāt",
+              "id": "6912bdec5bee4e92a3bd9492d6282246",
+              "count": 7
+            },
+            {
+              "descriptor": "Hainan",
+              "id": "d40671b98eea4e04b7428763f9da528c",
+              "count": 1
+            },
+            {
+              "descriptor": "Hamburg",
+              "id": "8752d71cfdcb46cc91bf90d40cebd42d",
+              "count": 2
+            },
+            {
+              "descriptor": "Haryāna",
+              "id": "110deb52af724949bd6d2b655a3492f0",
+              "count": 6
+            },
+            {
+              "descriptor": "Hawaii",
+              "id": "e7634111501844fe83a0b316b16beb08",
+              "count": 11
+            },
+            {
+              "descriptor": "Hawke's Bay",
+              "id": "5db71342bf7a4f20b79ca5936264d295",
+              "count": 5
+            },
+            {
+              "descriptor": "Hebei",
+              "id": "b1e7460d2ef6470ea14f09201b475a46",
+              "count": 1
+            },
+            {
+              "descriptor": "Henan",
+              "id": "fc5b96128faa49528371900106ed9cf7",
+              "count": 2
+            },
+            {
+              "descriptor": "Hesse",
+              "id": "6cc156ba5cce4b9587306688ce202df9",
+              "count": 6
+            },
+            {
+              "descriptor": "Hồ Chí Minh",
+              "id": "0d2948816a92477fad023c84b4fd5a6f",
+              "count": 2
+            },
+            {
+              "descriptor": "Hubei",
+              "id": "a1fa1bbcce554ad0b463b5c079ec9e2b",
+              "count": 4
+            },
+            {
+              "descriptor": "Hunan",
+              "id": "4c2fd180757b45b38cf3c54023c9ffad",
+              "count": 1
+            },
+            {
+              "descriptor": "Idaho",
+              "id": "b1c017b8f6294b0e82773aaca1dce33e",
+              "count": 16
+            },
+            {
+              "descriptor": "Illinois",
+              "id": "d8bb292ed9fe44a2899a990ad569538c",
+              "count": 29
+            },
+            {
+              "descriptor": "Indiana",
+              "id": "28489665bcac44028a70d0642c932be4",
+              "count": 23
+            },
+            {
+              "descriptor": "Iowa",
+              "id": "a9be12393ccd460ea46d08c249ce6c8b",
+              "count": 16
+            },
+            {
+              "descriptor": "Jakarta Raya",
+              "id": "5512c8934b014e68be4fcd8db5015fca",
+              "count": 12
+            },
+            {
+              "descriptor": "Jawa Timur",
+              "id": "593e57beee574366b19be686ad107a43",
+              "count": 1
+            },
+            {
+              "descriptor": "Jhārkhand",
+              "id": "847b204ca8fd4d389587f5e6ea42a093",
+              "count": 3
+            },
+            {
+              "descriptor": "Jiangsu",
+              "id": "8ad3cfa8b4f04b74aff60dbef3b1f9e2",
+              "count": 16
+            },
+            {
+              "descriptor": "Jihomoravský kraj",
+              "id": "c03699335ca740d0b9daa87f9fdc82c8",
+              "count": 34
+            },
+            {
+              "descriptor": "Johor",
+              "id": "e86b0fc2d75940a5ace0e97ddd886ab8",
+              "count": 5
+            },
+            {
+              "descriptor": "Kansas",
+              "id": "975ef5fd66c048909a4d64b64b762836",
+              "count": 17
+            },
+            {
+              "descriptor": "Kaohsiung City",
+              "id": "33966a93b3514d418043059fb1334641",
+              "count": 2
+            },
+            {
+              "descriptor": "Karnātaka",
+              "id": "701eb5584934425d930bc84b9e8b04eb",
+              "count": 143
+            },
+            {
+              "descriptor": "Kentucky",
+              "id": "66d386e70a2946b695835e59cebcd7b2",
+              "count": 15
+            },
+            {
+              "descriptor": "Keski-Suomi",
+              "id": "5e1b9e6ba2ae4eba9c78d9b96d4db536",
+              "count": 2
+            },
+            {
+              "descriptor": "Kocaeli",
+              "id": "0d4b0478672541fe868ded78fcee4b41",
+              "count": 3
+            },
+            {
+              "descriptor": "Lesser Poland",
+              "id": "1796189bbfb44244a4a7242ec41d28cd",
+              "count": 58
+            },
+            {
+              "descriptor": "Liaoning",
+              "id": "c7d46c32f719424695cb2b0e1bfa361a",
+              "count": 2
+            },
+            {
+              "descriptor": "Liberecký kraj",
+              "id": "234e8ee004924680b31b16e04a7aeeb1",
+              "count": 1
+            },
+            {
+              "descriptor": "Lima",
+              "id": "9f4695254805492bba2c0cac7f7796e7",
+              "count": 4
+            },
+            {
+              "descriptor": "Lisbon",
+              "id": "43584f6c76274236a093563b68331b22",
+              "count": 2
+            },
+            {
+              "descriptor": "Lodz",
+              "id": "6c6ec57bcee049859457a111a47a6430",
+              "count": 12
+            },
+            {
+              "descriptor": "Louisiana",
+              "id": "777facb47a8442bfba79628424812d64",
+              "count": 18
+            },
+            {
+              "descriptor": "Lower Austria",
+              "id": "0fb52ba5399f4755917d69cbfd1b3b35",
+              "count": 8
+            },
+            {
+              "descriptor": "Lower Saxony",
+              "id": "1b389072031a463c814c83efc243185b",
+              "count": 1
+            },
+            {
+              "descriptor": "Lower Silesian",
+              "id": "bff039704f644344bda37c3baed5c37e",
+              "count": 5
+            },
+            {
+              "descriptor": "Madrid",
+              "id": "0321ceabe7ca4740bd2d5f2e2e6e5d68",
+              "count": 10
+            },
+            {
+              "descriptor": "Mahārāshtra",
+              "id": "a3c37012f51642f4a7b3dafc8ac37801",
+              "count": 28
+            },
+            {
+              "descriptor": "Maine",
+              "id": "b6d5367355b64eebb870b465d2e72205",
+              "count": 15
+            },
+            {
+              "descriptor": "Makkah",
+              "id": "6c525abdcb2f454c92ac88629a7fb7c0",
+              "count": 2
+            },
+            {
+              "descriptor": "Manchester",
+              "id": "38c97a0780af4c0da71986435063dc84",
+              "count": 2
+            },
+            {
+              "descriptor": "Manitoba",
+              "id": "8a973097230449ff9c006a64a8957db0",
+              "count": 1
+            },
+            {
+              "descriptor": "Maryland",
+              "id": "586509e6daa741808206b095fee97e8f",
+              "count": 16
+            },
+            {
+              "descriptor": "Masovian",
+              "id": "318dca06587446ebb6f5f0027e18856b",
+              "count": 13
+            },
+            {
+              "descriptor": "Masqaţ",
+              "id": "6b13196e279e4c8c8715e0bc5a57b013",
+              "count": 1
+            },
+            {
+              "descriptor": "Massachusetts",
+              "id": "c66d738416b74fb180376cf59cc7ec8f",
+              "count": 17
+            },
+            {
+              "descriptor": "Michigan",
+              "id": "b8372eef6b5341a39cdc95ac32790cba",
+              "count": 32
+            },
+            {
+              "descriptor": "Milano",
+              "id": "15666db5b54343c1ac41344d81e951eb",
+              "count": 31
+            },
+            {
+              "descriptor": "Minnesota",
+              "id": "02f3984b69ba450080e456fe733f6741",
+              "count": 14
+            },
+            {
+              "descriptor": "Mississippi",
+              "id": "7c552cab901d4a1aa359a9cfc62850a7",
+              "count": 65
+            },
+            {
+              "descriptor": "Missouri",
+              "id": "790e3c3ddfaa4123905237a05f1df9e9",
+              "count": 37
+            },
+            {
+              "descriptor": "Montana",
+              "id": "d649a916a12e4680887c98d5836d0647",
+              "count": 14
+            },
+            {
+              "descriptor": "Montevideo",
+              "id": "8c84c418b7c84bc7aa50b52b8091ea8b",
+              "count": 1
+            },
+            {
+              "descriptor": "Monza e Brianza",
+              "id": "cd527ca279594ab6b5a36ce5883ae61c",
+              "count": 3
+            },
+            {
+              "descriptor": "Moravskoslezský kraj",
+              "id": "eceffb0686a548fb8831dfbe7cfb9af7",
+              "count": 15
+            },
+            {
+              "descriptor": "Moselle",
+              "id": "bb04e19905eb4b9ea64531160a557220",
+              "count": 1
+            },
+            {
+              "descriptor": "National Capital Region",
+              "id": "aa699087f7cd4868b3e3e1d3d94fc4f6",
+              "count": 3
+            },
+            {
+              "descriptor": "Nebraska",
+              "id": "3a652942d5f84071a48bc94a2b17d331",
+              "count": 17
+            },
+            {
+              "descriptor": "Nei Mongol",
+              "id": "8351e9ccb183448a974fd81abf4e395b",
+              "count": 1
+            },
+            {
+              "descriptor": "Nevada",
+              "id": "33e7c3874e0e4d28a8047926aa4a1d21",
+              "count": 21
+            },
+            {
+              "descriptor": "New Hampshire",
+              "id": "9efc91fd842142a0b0bf455e723b65a0",
+              "count": 15
+            },
+            {
+              "descriptor": "New Jersey",
+              "id": "9b56fe16bdf74b2cbad8b644cdf6015a",
+              "count": 25
+            },
+            {
+              "descriptor": "New Mexico",
+              "id": "32c182efea294964a9000772bc740672",
+              "count": 20
+            },
+            {
+              "descriptor": "New South Wales",
+              "id": "c7cff0e46d864ae49ef40b4ba71e7e5c",
+              "count": 5
+            },
+            {
+              "descriptor": "New York",
+              "id": "9819bf0148e54f89adb255aa7bead635",
+              "count": 17
+            },
+            {
+              "descriptor": "Norrbotten County",
+              "id": "0e315a14cd2d4a51af0acb83e8f95ba1",
+              "count": 1
+            },
+            {
+              "descriptor": "North Carolina",
+              "id": "1486a0a4a8464c3b9ec482d4038deb99",
+              "count": 190
+            },
+            {
+              "descriptor": "North Dakota",
+              "id": "0567a9c4e90340e192aa655d387323c6",
+              "count": 12
+            },
+            {
+              "descriptor": "Northern Mariana Islands",
+              "id": "4848ee8c358e47e699dd8e11c9ef7112",
+              "count": 10
+            },
+            {
+              "descriptor": "North Rhine-Westphalia",
+              "id": "6cf824b9142d401090a8e2fcb9e5771c",
+              "count": 53
+            },
+            {
+              "descriptor": "Nottinghamshire",
+              "id": "f44ec24c60eb4320842a1b0bcc0f28c6",
+              "count": 2
+            },
+            {
+              "descriptor": "Nuevo León",
+              "id": "e24ca71036f84293989b87e79a5ab4a2",
+              "count": 38
+            },
+            {
+              "descriptor": "Odisha",
+              "id": "6aadab801ce74a47861b1d2447ba6e4d",
+              "count": 1
+            },
+            {
+              "descriptor": "Ohio",
+              "id": "41493c81d9214eb190fd14067c7d974d",
+              "count": 42
+            },
+            {
+              "descriptor": "Oklahoma",
+              "id": "205ef21c556342268847466c48ec5a8c",
+              "count": 25
+            },
+            {
+              "descriptor": "Ontario",
+              "id": "218a720b28a74c67b5c6d42c00bdadfa",
+              "count": 18
+            },
+            {
+              "descriptor": "Oregon",
+              "id": "6fcc4198762c4a7c807486c849fe94dd",
+              "count": 23
+            },
+            {
+              "descriptor": "Overijssel",
+              "id": "d2d84aa8421645a1bd56ae8d413799b1",
+              "count": 1
+            },
+            {
+              "descriptor": "Padova",
+              "id": "6c6a8f8d344748089dc5fafc008cfe92",
+              "count": 2
+            },
+            {
+              "descriptor": "Panamá",
+              "id": "8cd6eac3ce274b92a62136d5da34716e",
+              "count": 3
+            },
+            {
+              "descriptor": "Panamá Oeste",
+              "id": "c7528b7b8150100003a58d684904000f",
+              "count": 1
+            },
+            {
+              "descriptor": "Paris",
+              "id": "ebb12344cdf342b8964fa62c3a68ef07",
+              "count": 1
+            },
+            {
+              "descriptor": "Pennsylvania",
+              "id": "f620a79f2dc44473828b42881312de2b",
+              "count": 25
+            },
+            {
+              "descriptor": "Pirkanmaa",
+              "id": "01bbaf08f753437e90f00638ce799228",
+              "count": 1
+            },
+            {
+              "descriptor": "Plovdiv",
+              "id": "96ca726992304893b5b600e655481be8",
+              "count": 60
+            },
+            {
+              "descriptor": "Plzeňský kraj",
+              "id": "6535013d9a0e4bbfbdd9207a52f5ac95",
+              "count": 7
+            },
+            {
+              "descriptor": "Pohjanmaa",
+              "id": "d1ccd02322394a45964f5217b5618eec",
+              "count": 10
+            },
+            {
+              "descriptor": "Pomeranian",
+              "id": "a92317f17cef4e019d9bef0a5a87ac3c",
+              "count": 1
+            },
+            {
+              "descriptor": "Praha",
+              "id": "55701e67dea74af99ac52246a20b3812",
+              "count": 5
+            },
+            {
+              "descriptor": "Puerto Rico",
+              "id": "23c0c7a08b674337bd67252e3648f2a9",
+              "count": 10
+            },
+            {
+              "descriptor": "Pulau Pinang (Penang)",
+              "id": "05b047780403433b9a3b8f92e8ad0dd5",
+              "count": 1
+            },
+            {
+              "descriptor": "Quảng Trị",
+              "id": "aa20f637f6f84ec4b51995d57675dc63",
+              "count": 3
+            },
+            {
+              "descriptor": "Quebec",
+              "id": "ef8a53af14534128b795fd55d75ec08b",
+              "count": 52
+            },
+            {
+              "descriptor": "Queensland",
+              "id": "fe22ac414d814113b975e4944a564b13",
+              "count": 1
+            },
+            {
+              "descriptor": "Rayong",
+              "id": "454e1d7bd64e4c12a11980aba4c6b0b0",
+              "count": 2
+            },
+            {
+              "descriptor": "Region Metropolitana de Santiago",
+              "id": "ea75ae953e9d45ce87314070d8c528b0",
+              "count": 10
+            },
+            {
+              "descriptor": "Rhode Island",
+              "id": "4c2f08af9b834f13bf4c2d41679d222d",
+              "count": 15
+            },
+            {
+              "descriptor": "Rhone",
+              "id": "3f3bf054b78f48a3bbd3d1caf79cb83d",
+              "count": 2
+            },
+            {
+              "descriptor": "Riyadh",
+              "id": "a9b4429766264ac88ba45046ce44b654",
+              "count": 3
+            },
+            {
+              "descriptor": "Roma",
+              "id": "06665868b6b34a80931a9628313eee91",
+              "count": 1
+            },
+            {
+              "descriptor": "Salzburg",
+              "id": "8c864bddaa754daca3ee9028a54ed348",
+              "count": 4
+            },
+            {
+              "descriptor": "San Luis Potosí",
+              "id": "92bdecb0bceb492d99b98a9bf4b79cae",
+              "count": 26
+            },
+            {
+              "descriptor": "São Paulo",
+              "id": "6177762425c54ca8aa31aac74fb08fad",
+              "count": 11
+            },
+            {
+              "descriptor": "Sarawak",
+              "id": "e0dbfd19035d4657b6a3248528e3a6ad",
+              "count": 1
+            },
+            {
+              "descriptor": "Saskatchewan",
+              "id": "00e298f324744884830f7eacb196677b",
+              "count": 1
+            },
+            {
+              "descriptor": "Savoie",
+              "id": "af43694014b14209a108e18a74ffc46f",
+              "count": 6
+            },
+            {
+              "descriptor": "Saxony",
+              "id": "e3c6ad91206a450783bf22b36aed2352",
+              "count": 3
+            },
+            {
+              "descriptor": "Schaffhausen",
+              "id": "fe4ac3dc21504d05a229eb5f6a436108",
+              "count": 4
+            },
+            {
+              "descriptor": "Selangor",
+              "id": "1cd0701fc5b0456399ccf4865051a8e5",
+              "count": 12
+            },
+            {
+              "descriptor": "Seoul",
+              "id": "443e53d4f94a4547af860b67235f9942",
+              "count": 8
+            },
+            {
+              "descriptor": "Sevilla",
+              "id": "769bd5c4b1c048e1b2857fd100b23f9f",
+              "count": 2
+            },
+            {
+              "descriptor": "Shandong",
+              "id": "396ab842754f4087af43c5e9c1d2a993",
+              "count": 8
+            },
+            {
+              "descriptor": "Shanghai",
+              "id": "12022932d53e4131959783deec185438",
+              "count": 134
+            },
+            {
+              "descriptor": "Shanxi",
+              "id": "85cf4bbeea6846c7a9fcb4d9b9858ac6",
+              "count": 1
+            },
+            {
+              "descriptor": "Sharkia",
+              "id": "05ef9ca1c35848b18a8b1ff4d995558d",
+              "count": 3
+            },
+            {
+              "descriptor": "Sichuan",
+              "id": "e8d349befce64b698a7562c13a55bbd2",
+              "count": 4
+            },
+            {
+              "descriptor": "Silesian",
+              "id": "6204f0ee48994e51a48cfacf8eecfb88",
+              "count": 5
+            },
+            {
+              "descriptor": "Skane County",
+              "id": "56501f3ba3324cda9d4f17b8ad07a1ca",
+              "count": 2
+            },
+            {
+              "descriptor": "Sonora",
+              "id": "1169a156f7374f5db661032d0772132d",
+              "count": 2
+            },
+            {
+              "descriptor": "South Carolina",
+              "id": "1d2632a43d204a2799bcd38b57e8a26e",
+              "count": 33
+            },
+            {
+              "descriptor": "South Dakota",
+              "id": "745d76f06d2b41738aecee630c5888a0",
+              "count": 15
+            },
+            {
+              "descriptor": "South Holland",
+              "id": "95b62c109b4a46338c2825f7e1743360",
+              "count": 23
+            },
+            {
+              "descriptor": "Splitsko-dalmatinska županija",
+              "id": "88328bb7181e426b85574c05949b2a2e",
+              "count": 1
+            },
+            {
+              "descriptor": "St. Gallen",
+              "id": "61a8c0bbfc5d4d3084d82c58ad1e4f9a",
+              "count": 1
+            },
+            {
+              "descriptor": "Styria",
+              "id": "3af5dbf89f164c3dbb47d12edb093d71",
+              "count": 1
+            },
+            {
+              "descriptor": "Taipei City",
+              "id": "c5684b475b7345d0839454b2a03c5d2d",
+              "count": 7
+            },
+            {
+              "descriptor": "Tamaulipas",
+              "id": "b761a89dcba94b35aa733334b09b5e68",
+              "count": 1
+            },
+            {
+              "descriptor": "Tamil Nādu",
+              "id": "058a7c64f4a043ad9dc148854028f375",
+              "count": 5
+            },
+            {
+              "descriptor": "Telangāna",
+              "id": "3cfc61cd0cf4100004b86c8483b80007",
+              "count": 7
+            },
+            {
+              "descriptor": "Tennessee",
+              "id": "00044a0287144032bca6973ac0eedb3e",
+              "count": 43
+            },
+            {
+              "descriptor": "Texas",
+              "id": "fc77e3a1ab36487f9646d14f7242dd77",
+              "count": 71
+            },
+            {
+              "descriptor": "Tianjin",
+              "id": "c52bffa06ef94a53ac0e90a7708acaad",
+              "count": 2
+            },
+            {
+              "descriptor": "Ticino",
+              "id": "8d81c41e88f14ae7acb12a9673572baf",
+              "count": 11
+            },
+            {
+              "descriptor": "Tokyo",
+              "id": "6534030e79d54ac897646438ed66ac9a",
+              "count": 9
+            },
+            {
+              "descriptor": "Tucuman",
+              "id": "befe350bef3442d2a488eec23b62bb5f",
+              "count": 1
+            },
+            {
+              "descriptor": "Ulsan",
+              "id": "fe80d7096bd94555940671bd2d088c52",
+              "count": 2
+            },
+            {
+              "descriptor": "United States Minor Outlying Islands",
+              "id": "98d5e73cb8d048558744b3b43786d883",
+              "count": 9
+            },
+            {
+              "descriptor": "Upper Austria",
+              "id": "f43b5421a227407cafd36f6c49abf6db",
+              "count": 12
+            },
+            {
+              "descriptor": "Utah",
+              "id": "9bf006cfb5a44c51b84138e1a0e7d805",
+              "count": 21
+            },
+            {
+              "descriptor": "Uusimaa",
+              "id": "f7954aa327894e62bb6101b303c7754a",
+              "count": 14
+            },
+            {
+              "descriptor": "Val-d'Oise",
+              "id": "4eaa7e35d1ad4307bd8ab552d2aabfe3",
+              "count": 3
+            },
+            {
+              "descriptor": "Valencia",
+              "id": "f874446b507f445482627da7e8e154a8",
+              "count": 3
+            },
+            {
+              "descriptor": "Valladolid",
+              "id": "344835d98326463aae940397f2dcfd10",
+              "count": 1
+            },
+            {
+              "descriptor": "Vastmanland County",
+              "id": "5f2bc4fdb56d48f7b9b9d5793e3f4552",
+              "count": 55
+            },
+            {
+              "descriptor": "Vastra Gotaland County",
+              "id": "be7c8c66eb8444f3a958ee97be80d014",
+              "count": 5
+            },
+            {
+              "descriptor": "Vaud",
+              "id": "105d5cc97c2b48babd9611dcdc7fa4d4",
+              "count": 1
+            },
+            {
+              "descriptor": "Vermont",
+              "id": "7df7a0cb48724af7891cb70410546897",
+              "count": 15
+            },
+            {
+              "descriptor": "Victoria",
+              "id": "ab28d9dc175e444fa11c7c0f28f52e2c",
+              "count": 4
+            },
+            {
+              "descriptor": "Virginia",
+              "id": "e0889a76c58d4fff9b54b80dadc49000",
+              "count": 65
+            },
+            {
+              "descriptor": "Virgin Islands, U.S.",
+              "id": "954f8a558c0c42acae0fe0dccc6b0b14",
+              "count": 8
+            },
+            {
+              "descriptor": "Vizcaya",
+              "id": "660c8e6ff53145a786f8fe090f666dd8",
+              "count": 4
+            },
+            {
+              "descriptor": "Warwickshire",
+              "id": "c8d76d6413f944568de455667fab5f17",
+              "count": 4
+            },
+            {
+              "descriptor": "Washington",
+              "id": "de9b48948ef8421db97ddf4ea206e931",
+              "count": 22
+            },
+            {
+              "descriptor": "West Bengal",
+              "id": "45e48705169d4f589729d2a0190b53bb",
+              "count": 1
+            },
+            {
+              "descriptor": "West Virginia",
+              "id": "dc5bc08fd91446bdbd108d98a19ac0ff",
+              "count": 15
+            },
+            {
+              "descriptor": "West Yorkshire",
+              "id": "4cbfdff08bab487ba4b2a0e1aabf7b9b",
+              "count": 1
+            },
+            {
+              "descriptor": "Wisconsin",
+              "id": "96f29b3353ac4653b1a860751618e36b",
+              "count": 50
+            },
+            {
+              "descriptor": "Wyoming",
+              "id": "0022bee925f740b0a078f707a1868642",
+              "count": 17
+            },
+            {
+              "descriptor": "Xinjiang",
+              "id": "98a7504f45c748e0ab20bfa18550c387",
+              "count": 1
+            },
+            {
+              "descriptor": "Yunnan",
+              "id": "f21afabdd30e4d56b2eccd1f1fdceee9",
+              "count": 1
+            },
+            {
+              "descriptor": "Zaragoza",
+              "id": "1291aba6891c4736820829bac8ace3da",
+              "count": 3
+            },
+            {
+              "descriptor": "Zhejiang",
+              "id": "10ae0aa3144f4d1e9e3cf7b723439a3c",
+              "count": 13
+            },
+            {
+              "descriptor": "Zurich",
+              "id": "1d92a4308677476480ec390b58b2cad3",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "facetParameter": "locations",
+          "descriptor": "Locations",
+          "values": [
+            {
+              "descriptor": "10th of Ramadan City, Sharkia, Egypt",
+              "id": "9b7397e105ea1001fa450adeb9340000",
+              "count": 1
+            },
+            {
+              "descriptor": "Aberdeen, Aberdeenshire, United Kingdom",
+              "id": "094a0cd6eed71000b844ee27ecaf0000",
+              "count": 3
+            },
+            {
+              "descriptor": "Aberdeen, Aberdeenshire, United Kingdom",
+              "id": "094a0cd6eed71000b83e767a5e170000",
+              "count": 1
+            },
+            {
+              "descriptor": "Abu Dhabi, Abu Dhabi, United Arab Emirates",
+              "id": "094a0cd6eed71000b827aed4da6d0000",
+              "count": 3
+            },
+            {
+              "descriptor": "Aleksandrow Lodzki, Lodz, Poland",
+              "id": "094a0cd6eed71000b84327f81ee10000",
+              "count": 11
+            },
+            {
+              "descriptor": "Al Hamriya, Muscat, Oman",
+              "id": "094a0cd6eed71000b830c59bf88d0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Alingsas, Vastra Gotaland County, Sweden",
+              "id": "094a0cd6eed71000b8440fb86b4b0000",
+              "count": 4
+            },
+            {
+              "descriptor": "Alingsas, Vastra Gotalands Lan, Sweden",
+              "id": "094a0cd6eed71000b837c6b4f4780000",
+              "count": 1
+            },
+            {
+              "descriptor": "Al-Khobar, asch-Scharqiyya, Saudi Arabia",
+              "id": "094a0cd6eed71000b85286a0be880000",
+              "count": 1
+            },
+            {
+              "descriptor": "Almaty, Almaty (City), Kazakhstan",
+              "id": "094a0cd6eed71000fffc97ae13620000",
+              "count": 2
+            },
+            {
+              "descriptor": "Alpharetta, Georgia, United States of America",
+              "id": "094a0cd6eed71000b84019c6b1420000",
+              "count": 3
+            },
+            {
+              "descriptor": "Anyang, Seoul, Republic of Korea",
+              "id": "094a0cd6eed71000b82b480215b60000",
+              "count": 2
+            },
+            {
+              "descriptor": "Apodaca, Nuevo León, Mexico",
+              "id": "094a0cd6eed71000b8505b01287e0000",
+              "count": 21
+            },
+            {
+              "descriptor": "Arecibo, Puerto Rico",
+              "id": "094a0cd6eed71000b82a21b185fd0000",
+              "count": 7
+            },
+            {
+              "descriptor": "Arecibo, Puerto Rico",
+              "id": "094a0cd6eed71000b86a0ee7e7d60000",
+              "count": 1
+            },
+            {
+              "descriptor": "Arraijan, Panamá Oeste, Panama",
+              "id": "9b7397e105ea1001fa43ce2579890000",
+              "count": 1
+            },
+            {
+              "descriptor": "Athens, Georgia, USA",
+              "id": "094a0cd6eed71000b846d6e314800000",
+              "count": 1
+            },
+            {
+              "descriptor": "Atlanta, Georgia, United States of America",
+              "id": "094a0cd6eed71000b82d6d7230700000",
+              "count": 2
+            },
+            {
+              "descriptor": "Auckland, Auckland, New Zealand",
+              "id": "094a0cd6eed71000b83a05e3c8200000",
+              "count": 3
+            },
+            {
+              "descriptor": "Bac Ninh, Tuyên Quang, Vietnam",
+              "id": "094a0cd6eed71000b86b296996f80000",
+              "count": 1
+            },
+            {
+              "descriptor": "Bad Berleburg, North Rhine-Westphalia, Germany",
+              "id": "094a0cd6eed71000b8532e7c6dfd0000",
+              "count": 2
+            },
+            {
+              "descriptor": "Baden, Aargau, Switzerland",
+              "id": "094a0cd6eed71000b83ff90538850000",
+              "count": 11
+            },
+            {
+              "descriptor": "Baden, Aargau, Switzerland",
+              "id": "c7b82e0db10410014edc6d862af10000",
+              "count": 2
+            },
+            {
+              "descriptor": "Baden, Aargau, Switzerland",
+              "id": "094a0cd6eed71000b840962740cf0000",
+              "count": 2
+            },
+            {
+              "descriptor": "Baden, Switzerland",
+              "id": "094a0cd6eed71000b83d8dec85bf0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Baden-Daettwil, Aargau, Switzerland",
+              "id": "094a0cd6eed71000b82d2b487a680000",
+              "count": 9
+            },
+            {
+              "descriptor": "Ballerup, Region Hovedstaden, Denmark",
+              "id": "094a0cd6eed71000b8488f9f262a0000",
+              "count": 5
+            },
+            {
+              "descriptor": "Banchang, Rayong, Thailand",
+              "id": "094a0cd6eed71000b828631ee6d70000",
+              "count": 2
+            },
+            {
+              "descriptor": "Bangalore, India",
+              "id": "094a0cd6eed71000b83296766a6a0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Bangalore, Karnataka, India",
+              "id": "094a0cd6eed71000b85ab37e531a0000",
+              "count": 134
+            },
+            {
+              "descriptor": "Bangalore, Karnataka, India",
+              "id": "094a0cd6eed71000b866f86b4a470000",
+              "count": 4
+            },
+            {
+              "descriptor": "Bangalore, Karnataka, India",
+              "id": "094a0cd6eed71000b86aa66ceb380000",
+              "count": 3
+            },
+            {
+              "descriptor": "Bangalore, Karnataka, India",
+              "id": "094a0cd6eed71000b84e315a04a60000",
+              "count": 1
+            },
+            {
+              "descriptor": "Bangalore, Karnataka, India",
+              "id": "094a0cd6eed71000b840d8e4d03e0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Bangalore Rural, India",
+              "id": "094a0cd6eed71000b8351232beef0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Bangalore Rural, Karnataka, India",
+              "id": "094a0cd6eed71000b83e7c7e31660000",
+              "count": 2
+            },
+            {
+              "descriptor": "Bangkok, Thailand",
+              "id": "094a0cd6eed71000b82ce88db88c0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Barcelona, Barcelona, Spain",
+              "id": "094a0cd6eed71000b84ea55ea6100000",
+              "count": 1
+            },
+            {
+              "descriptor": "Bartlesville, Oklahoma, United States of America",
+              "id": "094a0cd6eed71000b838ed860f040000",
+              "count": 6
+            },
+            {
+              "descriptor": "Bartlesville, Oklahoma, USA",
+              "id": "094a0cd6eed71000b863ae6830370000",
+              "count": 1
+            },
+            {
+              "descriptor": "Beaumont, Texas, USA",
+              "id": "49eb74c64cb21001407aed85873c0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Beersel, Flemish Brabant, Belgium",
+              "id": "094a0cd6eed71000b867559c43480000",
+              "count": 2
+            },
+            {
+              "descriptor": "Beijing, Beijing, China",
+              "id": "094a0cd6eed71000b867eb64d7b70000",
+              "count": 94
+            },
+            {
+              "descriptor": "Beijing, Beijing, China",
+              "id": "094a0cd6eed71000b82c1b92ea150000",
+              "count": 6
+            },
+            {
+              "descriptor": "Beijing, Beijing, China",
+              "id": "094a0cd6eed71000b82e6e311b610000",
+              "count": 1
+            },
+            {
+              "descriptor": "Bella Vista, Tucuman, Argentina",
+              "id": "094a0cd6eed71000b830e0a910a10000",
+              "count": 1
+            },
+            {
+              "descriptor": "Bergamo, Bergamo, Italy",
+              "id": "094a0cd6eed71000b82b94ee89640000",
+              "count": 18
+            },
+            {
+              "descriptor": "Berlin, Berlin, Germany",
+              "id": "094a0cd6eed71000b835effe46dd0000",
+              "count": 6
+            },
+            {
+              "descriptor": "Beynost, Ain, France",
+              "id": "094a0cd6eed71000b85ce0ee87790000",
+              "count": 5
+            },
+            {
+              "descriptor": "Beynost, Ain, France",
+              "id": "094a0cd6eed71000b83a9afc6dce0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Bhubaneswar, Odisha, India",
+              "id": "094a0cd6eed71000b848344b75d30000",
+              "count": 1
+            },
+            {
+              "descriptor": "Bielsko-Biala, Silesian, Poland",
+              "id": "094a0cd6eed71000b83eba70cd960000",
+              "count": 3
+            },
+            {
+              "descriptor": "Bielsko-Biala, Slaskie, Poland",
+              "id": "116645074e4810014243de6fcad40000",
+              "count": 2
+            },
+            {
+              "descriptor": "Blucina, Jihomoravsky, Czechia",
+              "id": "e3fb8a67e3291001452cc28f202b0000",
+              "count": 4
+            },
+            {
+              "descriptor": "Bogota, Cundinamarca, Colombia",
+              "id": "094a0cd6eed71000b829a70a652d0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Bolingbrook, Illinois, United States of America",
+              "id": "094a0cd6eed71000b83c22855ae00000",
+              "count": 1
+            },
+            {
+              "descriptor": "Bratislava, Bratislavsky kraj, Slovakia",
+              "id": "094a0cd6eed71000b838221357980000",
+              "count": 2
+            },
+            {
+              "descriptor": "Brno, Jihomoravsky, Czechia",
+              "id": "11797b535f241000fd26697fd35d0000",
+              "count": 4
+            },
+            {
+              "descriptor": "Brno, Jihomoravsky, Czechia",
+              "id": "094a0cd6eed71000b86bf48815fa0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Brno, Jihomoravský kraj, Czechia",
+              "id": "094a0cd6eed71000b852adbb49fb0000",
+              "count": 26
+            },
+            {
+              "descriptor": "Bromont, Quebec, Canada",
+              "id": "094a0cd6eed71000b82a5002c0520000",
+              "count": 1
+            },
+            {
+              "descriptor": "Brussels, Antwerp, Belgium",
+              "id": "9b7397e105ea1001fa4369f897db0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Bucharest, Bucureşti, Romania",
+              "id": "094a0cd6eed71000b865ea79d77b0000",
+              "count": 2
+            },
+            {
+              "descriptor": "Budapest, Budapest, Hungary",
+              "id": "094a0cd6eed71000b84fa610ee050000",
+              "count": 8
+            },
+            {
+              "descriptor": "Budapest, Budapest, Hungary",
+              "id": "094a0cd6eed71000b82e0760988d0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Buenos Aires, Buenos Aires, Argentina",
+              "id": "094a0cd6eed71000b85f695ee8ae0000",
+              "count": 2
+            },
+            {
+              "descriptor": "Buenos Aires, Capital Federal, Argentina",
+              "id": "094a0cd6eed71000b8373f8211960000",
+              "count": 2
+            },
+            {
+              "descriptor": "Cairo, Cairo, Egypt",
+              "id": "094a0cd6eed71000b86577c341ef0000",
+              "count": 7
+            },
+            {
+              "descriptor": "Calgary, Alberta, Canada",
+              "id": "094a0cd6eed71000b836fd5cd5320000",
+              "count": 2
+            },
+            {
+              "descriptor": "Castel Maggiore, Bologna, Italy",
+              "id": "094a0cd6eed71000b863905c92c10000",
+              "count": 1
+            },
+            {
+              "descriptor": "Cergy Pontoise, Val-d'Oise, France",
+              "id": "094a0cd6eed71000b8391831d77c0000",
+              "count": 3
+            },
+            {
+              "descriptor": "Changsha, Hunan, China",
+              "id": "094a0cd6eed71000b84e1485de3d0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Chassieu, Rhone, France",
+              "id": "094a0cd6eed71000b8330bc5e6f20000",
+              "count": 1
+            },
+            {
+              "descriptor": "Chengdu, Sichuan, China",
+              "id": "094a0cd6eed71000b83e71aa97470000",
+              "count": 4
+            },
+            {
+              "descriptor": "Chennai, Tamil Nadu, India",
+              "id": "49eb74c64cb21001424f9c6faa940000",
+              "count": 2
+            },
+            {
+              "descriptor": "Chennai, Tamil Nadu, India",
+              "id": "094a0cd6eed71000b841686a5e9e0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Chennai, Tamil Nadu, India",
+              "id": "094a0cd6eed71000b827edf928830000",
+              "count": 1
+            },
+            {
+              "descriptor": "Cheonan-si, Chungcheongnam-do, Republic of Korea",
+              "id": "094a0cd6eed71000b86bd4144c490000",
+              "count": 9
+            },
+            {
+              "descriptor": "Chongqing, Chongqing, China",
+              "id": "094a0cd6eed71000fffc79a28b560000",
+              "count": 4
+            },
+            {
+              "descriptor": "Christchurch, Canterbury, New Zealand",
+              "id": "9b7397e105ea1001fa43d38b494e0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Ciudad de Mexico, Ciudad de Mexico, Mexico",
+              "id": "094a0cd6eed71000b8667ab8897c0000",
+              "count": 9
+            },
+            {
+              "descriptor": "Coimbatore, Tamil Nadu, India",
+              "id": "094a0cd6eed71000b854963826db0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Coimbra, Coimbra,  Portugal",
+              "id": "094a0cd6eed71000b831f1024a3e0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Coleshill, Warwickshire, United Kingdom",
+              "id": "094a0cd6eed71000b84fade186660000",
+              "count": 3
+            },
+            {
+              "descriptor": "Coleshill, Warwickshire, United Kingdom",
+              "id": "094a0cd6eed71000b826fc955add0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Columbus, Mississippi, USA",
+              "id": "094a0cd6eed71000b855acb89c790000",
+              "count": 3
+            },
+            {
+              "descriptor": "Coquitlam, Canada",
+              "id": "094a0cd6eed71000fffc89dd6d820000",
+              "count": 4
+            },
+            {
+              "descriptor": "Coquitlam, Canada",
+              "id": "094a0cd6eed71000fffc2f2405df0000",
+              "count": 2
+            },
+            {
+              "descriptor": "Cottbus, Brandenburg, Germany",
+              "id": "094a0cd6eed71000b86083ab20320000",
+              "count": 5
+            },
+            {
+              "descriptor": "Dalfsen, Overijssel, Netherlands",
+              "id": "094a0cd6eed71000b83f058f12950000",
+              "count": 1
+            },
+            {
+              "descriptor": "Dalian, Liaoning, China",
+              "id": "094a0cd6eed71000b85eb05b03ac0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Dallas, Texas, United States of America",
+              "id": "9b7397e105ea1001fa45abb9f20c0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Dalmine, Bergamo, Italy",
+              "id": "094a0cd6eed71000b852a11a87b20000",
+              "count": 11
+            },
+            {
+              "descriptor": "Dammam, Eastern Region, Saudi Arabia",
+              "id": "094a0cd6eed71000b8285db72d870000",
+              "count": 2
+            },
+            {
+              "descriptor": "DEU, Berlin, Am Borsigturm 100",
+              "id": "094a0cd6eed71000b84e646d6dd70000",
+              "count": 1
+            },
+            {
+              "descriptor": "DNK, Esbjerg, Kanalen 1",
+              "id": "094a0cd6eed71000b85f32b708b00000",
+              "count": 1
+            },
+            {
+              "descriptor": "Doha, Al Asimah, Qatar",
+              "id": "094a0cd6eed71000b8489507ba490000",
+              "count": 1
+            },
+            {
+              "descriptor": "Doha, Al Wakrah, Qatar",
+              "id": "094a0cd6eed71000b8573976c3a60000",
+              "count": 1
+            },
+            {
+              "descriptor": "Doha, Qatar",
+              "id": "094a0cd6eed71000b82c8d3153b50000",
+              "count": 1
+            },
+            {
+              "descriptor": "Dorval, Quebec, Canada",
+              "id": "094a0cd6eed71000b827b30a1af30000",
+              "count": 2
+            },
+            {
+              "descriptor": "Dubai, Dubai, United Arab Emirates",
+              "id": "094a0cd6eed71000b85c256d5d9b0000",
+              "count": 3
+            },
+            {
+              "descriptor": "Dublin, Dublin, Ireland",
+              "id": "094a0cd6eed71000b86809770b0e0000",
+              "count": 5
+            },
+            {
+              "descriptor": "Dundalk, County Louth, Ireland",
+              "id": "3c95d59300241000b19c8fca23430000",
+              "count": 1
+            },
+            {
+              "descriptor": "Ede, Gelderland, Netherlands",
+              "id": "094a0cd6eed71000b83338eae1630000",
+              "count": 6
+            },
+            {
+              "descriptor": "Ede, Gelderland, Netherlands",
+              "id": "094a0cd6eed71000b862c19178c50000",
+              "count": 1
+            },
+            {
+              "descriptor": "Edmonton, Alberta, Canada",
+              "id": "a7451ffe8bc410019a8700b6b07c0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Edmonton, Alberta, Canada",
+              "id": "094a0cd6eed71000b85b3248f29d0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Eggelsberg, Oberosterreich, Austria",
+              "id": "094a0cd6eed71000b8635b7ca1c00000",
+              "count": 10
+            },
+            {
+              "descriptor": "ESP, Madrid, Calle del Mar Mediterráneo, 16",
+              "id": "5a7749727cab1001f6df47acdff00000",
+              "count": 2
+            },
+            {
+              "descriptor": "Esteban Echeverria, Buenos Aires, Argentina",
+              "id": "094a0cd6eed71000b83afaa234e70000",
+              "count": 1
+            },
+            {
+              "descriptor": "Etten-Leur, South Holland, Netherlands",
+              "id": "094a0cd6eed71000b846624d27730000",
+              "count": 3
+            },
+            {
+              "descriptor": "Faridabad, Haryana, India",
+              "id": "094a0cd6eed71000b856de0bf5ae0000",
+              "count": 5
+            },
+            {
+              "descriptor": "Faridabad, Haryana, India",
+              "id": "094a0cd6eed71000b82742e4cb890000",
+              "count": 1
+            },
+            {
+              "descriptor": "Ferentino, Frosinone, Italy",
+              "id": "7c78f9f82fca1000fd912679c3c70000",
+              "count": 2
+            },
+            {
+              "descriptor": "Flowery Branch, Georgia, USA",
+              "id": "094a0cd6eed71000b833078ee1890000",
+              "count": 1
+            },
+            {
+              "descriptor": "Fornebu, Rogaland, Norway",
+              "id": "094a0cd6eed71000b84f5021c7f10000",
+              "count": 3
+            },
+            {
+              "descriptor": "Fornebu, Viken, Norway",
+              "id": "094a0cd6eed71000b86819b5ca3c0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Fort Smith, Arkansas, United States of America",
+              "id": "094a0cd6eed71000b84e34f5262e0000",
+              "count": 20
+            },
+            {
+              "descriptor": "Frankfurt, Hesse, Germany",
+              "id": "094a0cd6eed71000b85f5159f0340000",
+              "count": 3
+            },
+            {
+              "descriptor": "Frankfurt am Main, Hesse, Germany",
+              "id": "094a0cd6eed71000b850d323cc440000",
+              "count": 4
+            },
+            {
+              "descriptor": "Friedberg, Hesse, Germany",
+              "id": "094a0cd6eed71000b84c78aa8d620000",
+              "count": 6
+            },
+            {
+              "descriptor": "Frosinone, Frosinone, Italy",
+              "id": "094a0cd6eed71000b8604bc698450000",
+              "count": 5
+            },
+            {
+              "descriptor": "Fuzhou, Fujian, China",
+              "id": "094a0cd6eed71000fffca57e1fb90000",
+              "count": 1
+            },
+            {
+              "descriptor": "Gdansk, Pomeranian, Poland",
+              "id": "094a0cd6eed71000b828fb2f469b0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Genova, Genova, Italy",
+              "id": "094a0cd6eed71000b843725f366b0000",
+              "count": 5
+            },
+            {
+              "descriptor": "Genova, Italy",
+              "id": "094a0cd6eed71000b828eaf451460000",
+              "count": 1
+            },
+            {
+              "descriptor": "Gijon, Asturias, Spain",
+              "id": "094a0cd6eed71000b84ca6689a010000",
+              "count": 2
+            },
+            {
+              "descriptor": "Gothenburg, Vastra Gotaland County, Sweden",
+              "id": "9b7397e105ea1001fa43f2216fc70000",
+              "count": 1
+            },
+            {
+              "descriptor": "Grand Rapids, Michigan, United States of America",
+              "id": "9b7397e105ea1001fa45fb13646d0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Graz, Styria, Austria",
+              "id": "094a0cd6eed71000b8508cdf62220000",
+              "count": 1
+            },
+            {
+              "descriptor": "Greenville, South Carolina, United States of America",
+              "id": "094a0cd6eed71000b828bf10eada0000",
+              "count": 2
+            },
+            {
+              "descriptor": "Guadalupe, Nuevo León, Mexico",
+              "id": "094a0cd6eed71000b838905ce4580000",
+              "count": 4
+            },
+            {
+              "descriptor": "Guangzhou, Guangdong, China",
+              "id": "094a0cd6eed71000b842f7f5a9db0000",
+              "count": 5
+            },
+            {
+              "descriptor": "Guiyang, Hainan, China",
+              "id": "9b7397e105ea1001fa4551a819290000",
+              "count": 1
+            },
+            {
+              "descriptor": "Hamburg, Hamburg, Germany",
+              "id": "094a0cd6eed71000b85ac61f75b60000",
+              "count": 1
+            },
+            {
+              "descriptor": "Hamburg, Hamburg, Germany",
+              "id": "094a0cd6eed71000b82d22d9857c0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Hangzhou, Zhejiang, China",
+              "id": "094a0cd6eed71000b8477c67be1c0000",
+              "count": 12
+            },
+            {
+              "descriptor": "Hannover, Lower Saxony, Germany",
+              "id": "094a0cd6eed71000b84c6fa4e1a70000",
+              "count": 1
+            },
+            {
+              "descriptor": "Hanoi, Hà Nội, Vietnam",
+              "id": "094a0cd6eed71000b85c424c8d130000",
+              "count": 3
+            },
+            {
+              "descriptor": "Hassfurt, Bavaria, Germany",
+              "id": "094a0cd6eed71000b82dc841b4b10000",
+              "count": 1
+            },
+            {
+              "descriptor": "Hefei, Anhui, China",
+              "id": "094a0cd6eed71000b83289d5161f0000",
+              "count": 2
+            },
+            {
+              "descriptor": "Heidelberg, Baden-Wurttemberg, Germany",
+              "id": "094a0cd6eed71000b85068383ebb0000",
+              "count": 23
+            },
+            {
+              "descriptor": "Helsinki, Uusimaa, Finland",
+              "id": "094a0cd6eed71000b86bcea9e62f0000",
+              "count": 14
+            },
+            {
+              "descriptor": "Henderson, Western Australia, New Zealand",
+              "id": "094a0cd6eed71000b86003a84aa30000",
+              "count": 1
+            },
+            {
+              "descriptor": "Ho Chi Minh City, TP. Ho Chi Minh, Vietnam",
+              "id": "094a0cd6eed71000b85873d1805b0000",
+              "count": 2
+            },
+            {
+              "descriptor": "Hohhot, Neimenggu, China",
+              "id": "094a0cd6eed71000b857340d8cb70000",
+              "count": 1
+            },
+            {
+              "descriptor": "Hornberg, Baden-Wurttemberg, Germany",
+              "id": "094a0cd6eed71000b852a98615360000",
+              "count": 4
+            },
+            {
+              "descriptor": "Houston, Texas, United States of America",
+              "id": "094a0cd6eed71000b82e5455e59d0000",
+              "count": 24
+            },
+            {
+              "descriptor": "Houston, Texas, USA",
+              "id": "094a0cd6eed71000b82ae25fc2450000",
+              "count": 2
+            },
+            {
+              "descriptor": "Houston, Texas, USA",
+              "id": "094a0cd6eed71000b8450298c8b60000",
+              "count": 1
+            },
+            {
+              "descriptor": "Hyderabad,  Andhrapradesh,  India",
+              "id": "094a0cd6eed71000b84c9890f0520000",
+              "count": 4
+            },
+            {
+              "descriptor": "Hyderabad, Telangana, India",
+              "id": "e3fb8a67e32910014532f1709c450000",
+              "count": 3
+            },
+            {
+              "descriptor": "Istanbul, İstanbul, Türkiye",
+              "id": "094a0cd6eed71000b85a836dff560000",
+              "count": 11
+            },
+            {
+              "descriptor": "Jablonec nad Nisou, Liberecký kraj, Czechia",
+              "id": "094a0cd6eed71000b83a7d81ff9a0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Jakarta, Jakarta, Indonesia",
+              "id": "094a0cd6eed71000b836e08a26ba0000",
+              "count": 8
+            },
+            {
+              "descriptor": "Jakarta, Jakarta, Indonesia",
+              "id": "094a0cd6eed71000b8388c270c060000",
+              "count": 3
+            },
+            {
+              "descriptor": "Jakarta, Jakarta, Indonesia",
+              "id": "381602ea26931000a86deeec52b70000",
+              "count": 1
+            },
+            {
+              "descriptor": "Jamshedpur, Jharkhand, India",
+              "id": "094a0cd6eed71000b83a67dd96f30000",
+              "count": 3
+            },
+            {
+              "descriptor": "Jeddah, Makkah, Saudi Arabia",
+              "id": "094a0cd6eed71000b8284a81eb510000",
+              "count": 2
+            },
+            {
+              "descriptor": "Jinan, Shandong, China",
+              "id": "094a0cd6eed71000b83b72f8b8570000",
+              "count": 6
+            },
+            {
+              "descriptor": "Johannesburg, Gauteng, South Africa",
+              "id": "094a0cd6eed71000b869c92dc9ba0000",
+              "count": 6
+            },
+            {
+              "descriptor": "Johor Bahru, Johor, Malaysia",
+              "id": "9b7397e105ea1001fa44637ddc2c0000",
+              "count": 2
+            },
+            {
+              "descriptor": "Johor Bahru, Malaysia",
+              "id": "094a0cd6eed71000b828120a288d0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Juarez, Nuevo Leon, Mexico",
+              "id": "8873faa827d510019dad22e204990000",
+              "count": 13
+            },
+            {
+              "descriptor": "Kalundborg, Zealand, Denmark",
+              "id": "094a0cd6eed71000b84e3a5d8b060000",
+              "count": 1
+            },
+            {
+              "descriptor": "Kaohsiung City, Kaohsiung City, Taiwan/Chinese Taipei",
+              "id": "094a0cd6eed71000b847c3ef82140000",
+              "count": 2
+            },
+            {
+              "descriptor": "Katowice, Silesian, Poland",
+              "id": "094a0cd6eed71000b82a37535cdc0000",
+              "count": 2
+            },
+            {
+              "descriptor": "Kaukauna, Wisconsin, USA",
+              "id": "ee4e24f919931000ff5c7ec175340000",
+              "count": 1
+            },
+            {
+              "descriptor": "Kecskemet, Bacs-Kiskun, Hungary",
+              "id": "094a0cd6eed71000b844e9f205b70000",
+              "count": 1
+            },
+            {
+              "descriptor": "Kiruna, Norrbotten County,  Sweden",
+              "id": "094a0cd6eed71000b85f9f714dab0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Kocaeli, Kocaeli, Turkey",
+              "id": "84d2756e64d310014fa8a236f3600000",
+              "count": 1
+            },
+            {
+              "descriptor": "Kocaeli, Kocaeli, Türkiye",
+              "id": "094a0cd6eed71000b8390d6002aa0000",
+              "count": 2
+            },
+            {
+              "descriptor": "Kokstad, Rogaland, Norway",
+              "id": "094a0cd6eed71000b8603b8c7eee0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Kolkata, West Bengal, India",
+              "id": "094a0cd6eed71000b8396f95cc390000",
+              "count": 1
+            },
+            {
+              "descriptor": "KOR, Ulsan, Ulsan, Republic of Korea 362-11, Jongga-ro, Jung-gu #701",
+              "id": "094a0cd6eed71000b86b450b51ba0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Krakow, Lesser Poland, Poland",
+              "id": "094a0cd6eed71000b83facae71940000",
+              "count": 54
+            },
+            {
+              "descriptor": "Krakow, Malopolskie, Poland",
+              "id": "094a0cd6eed71000b84c7e14ddf90000",
+              "count": 4
+            },
+            {
+              "descriptor": "Kuching, Sarawak, Malaysia",
+              "id": "094a0cd6eed71000b85c4b4f3eac0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Kunming, Yunnan, China",
+              "id": "094a0cd6eed71000b869d2cd81560000",
+              "count": 1
+            },
+            {
+              "descriptor": "Ladenburg, Baden-Wurttemberg, Germany",
+              "id": "094a0cd6eed71000b840115e1b030000",
+              "count": 1
+            },
+            {
+              "descriptor": "Lancaster, Texas, USA",
+              "id": "f957de2fb5721001d93c120952a60000",
+              "count": 4
+            },
+            {
+              "descriptor": "Leca do Bailo, Porto, Portugal",
+              "id": "5d204990bac01000a93d0ed0ec690000",
+              "count": 1
+            },
+            {
+              "descriptor": "Leipzig, Saxony, Germany",
+              "id": "094a0cd6eed71000b83957582a170000",
+              "count": 3
+            },
+            {
+              "descriptor": "Lenexa, Kansas, United States of America",
+              "id": "094a0cd6eed71000b849a12aad060000",
+              "count": 1
+            },
+            {
+              "descriptor": "Lima, Lima, Peru",
+              "id": "094a0cd6eed71000b847645700270000",
+              "count": 4
+            },
+            {
+              "descriptor": "Linz, Upper Austria, Austria",
+              "id": "094a0cd6eed71000b85c97a606090000",
+              "count": 2
+            },
+            {
+              "descriptor": "Ljubljana, Osrednjeslovenska, Slovenia",
+              "id": "094a0cd6eed71000b83353f8f42c0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Lodz, Lodz, Poland",
+              "id": "094a0cd6eed71000b83f712584d20000",
+              "count": 2
+            },
+            {
+              "descriptor": "London, London, United Kingdom",
+              "id": "9b7397e105ea1001fa4665e853dd0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Luedenscheid, North Rhine-Westphalia, Germany",
+              "id": "094a0cd6eed71000b861801299cd0000",
+              "count": 10
+            },
+            {
+              "descriptor": "Machelen, Belgium",
+              "id": "094a0cd6eed71000b82d30b1b4f20000",
+              "count": 1
+            },
+            {
+              "descriptor": "Machelen, Flemish Brabant, Belgium",
+              "id": "094a0cd6eed71000b84add504f5c0000",
+              "count": 6
+            },
+            {
+              "descriptor": "Machelen, Flemish Brabant, Belgium",
+              "id": "11797b535f241000fd27072651930000",
+              "count": 1
+            },
+            {
+              "descriptor": "Madrid, Madrid, Spain",
+              "id": "094a0cd6eed71000b83a61db46e50000",
+              "count": 7
+            },
+            {
+              "descriptor": "Madrid, Madrid, Spain",
+              "id": "094a0cd6eed71000b86b9c2f2bf10000",
+              "count": 1
+            },
+            {
+              "descriptor": "Madrid, Spain",
+              "id": "094a0cd6eed71000b84b68526a280000",
+              "count": 1
+            },
+            {
+              "descriptor": "Malmo, Skane County, Sweden",
+              "id": "094a0cd6eed71000b840e1e6746d0000",
+              "count": 2
+            },
+            {
+              "descriptor": "Mannheim, Baden-Wurttemberg, Germany",
+              "id": "094a0cd6eed71000b868d73c8a800000",
+              "count": 25
+            },
+            {
+              "descriptor": "Mannheim, Germany",
+              "id": "094a0cd6eed71000b82723a504dc0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Marseille, Bouches-du-Rhone, France",
+              "id": "094a0cd6eed71000b85779d11d660000",
+              "count": 3
+            },
+            {
+              "descriptor": "Maryborough, Queensland, Australia",
+              "id": "9b7397e105ea1001fa437a2ce1de0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Matamoros, Tamaulipas, Mexico",
+              "id": "094a0cd6eed71000b84375f862480000",
+              "count": 1
+            },
+            {
+              "descriptor": "Mebane, North Carolina, USA",
+              "id": "094a0cd6eed71000b8373418e0cd0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Mechanicsville, Virginia, United States of America",
+              "id": "9b7397e105ea1001fa45a1837cea0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Metamorphossi, Attiki, Greece",
+              "id": "094a0cd6eed71000b82f7c23e7900000",
+              "count": 5
+            },
+            {
+              "descriptor": "Metz, Moselle, France",
+              "id": "094a0cd6eed71000b86927e23b6c0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Middelfart, Region Syddanmark, Denmark",
+              "id": "9b7397e105ea1001fa451a7714c70000",
+              "count": 5
+            },
+            {
+              "descriptor": "Milano, Italy",
+              "id": "094a0cd6eed71000b8347e476fd90000",
+              "count": 3
+            },
+            {
+              "descriptor": "Milano, Milano, Italy",
+              "id": "c1c6e6feaa0f1001eca0a1b7a3410000",
+              "count": 3
+            },
+            {
+              "descriptor": "Milano, Milano, Italy",
+              "id": "f79685e97ebd1001ed039b4a8f7d0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Milford, Ohio, United States of America",
+              "id": "9b7397e105ea1001fa45823df3960000",
+              "count": 2
+            },
+            {
+              "descriptor": "Milpitas, California, USA",
+              "id": "f3b519e81dd010014c873a3d82930000",
+              "count": 1
+            },
+            {
+              "descriptor": "Milton, Ontario, Canada",
+              "id": "9b7397e105ea1001fa4392c469680000",
+              "count": 10
+            },
+            {
+              "descriptor": "Milton Keynes, Buckinghamshire, United Kingdom",
+              "id": "094a0cd6eed71000b8479d7732230000",
+              "count": 1
+            },
+            {
+              "descriptor": "Milwaukee, Wisconsin, USA",
+              "id": "094a0cd6eed71000b84bec8e49710000",
+              "count": 2
+            },
+            {
+              "descriptor": "Minden, North Rhine-Westphalia, Germany",
+              "id": "094a0cd6eed71000b83dd4d1dba00000",
+              "count": 9
+            },
+            {
+              "descriptor": "Miramar, Florida, United States of America",
+              "id": "094a0cd6eed71000b8568bf266130000",
+              "count": 2
+            },
+            {
+              "descriptor": "Mississauga, Ontario, Canada",
+              "id": "6a2135227f81100152a3f1ca89050000",
+              "count": 2
+            },
+            {
+              "descriptor": "Molndal, Vastra Gotaland County, Sweden",
+              "id": "094a0cd6eed71000b83c2fbdf6740000",
+              "count": 1
+            },
+            {
+              "descriptor": "Montevideo, Montevideo, Uruguay",
+              "id": "094a0cd6eed71000b858fb0bcd790000",
+              "count": 1
+            },
+            {
+              "descriptor": "Moorebank, New South Wales, Australia",
+              "id": "094a0cd6eed71000b848af90aa330000",
+              "count": 4
+            },
+            {
+              "descriptor": "Morges, Vaud, Switzerland",
+              "id": "9b7397e105ea1001fa462eb304840000",
+              "count": 1
+            },
+            {
+              "descriptor": "Morley, West Yorkshire, United Kingdom",
+              "id": "094a0cd6eed71000b86a76fad7830000",
+              "count": 1
+            },
+            {
+              "descriptor": "Mosnov, Moravskoslezsky, Czechia",
+              "id": "094a0cd6eed71000b842b8ebbea60000",
+              "count": 2
+            },
+            {
+              "descriptor": "Mt. Wellington, Auckland, New Zealand",
+              "id": "094a0cd6eed71000b83ea8663ab90000",
+              "count": 1
+            },
+            {
+              "descriptor": "Muenchen, Bayern, Germany",
+              "id": "6f3940b49c201000fc7f94076e1e0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Mumbai, Maharashtra, India",
+              "id": "094a0cd6eed71000b8563b5b0b220000",
+              "count": 4
+            },
+            {
+              "descriptor": "Mumbai, Maharashtra, India",
+              "id": "094a0cd6eed71000b84e5a34669b0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Nanjing, Jiangsu, China",
+              "id": "094a0cd6eed71000b847f70ac84f0000",
+              "count": 6
+            },
+            {
+              "descriptor": "Nanjing, Jiangsu, China",
+              "id": "53dd2fb8242a1000b2aaf0094f4b0000",
+              "count": 2
+            },
+            {
+              "descriptor": "Nanjing, Jiangsu, China",
+              "id": "5b19220db206100146fb2e19a2920000",
+              "count": 1
+            },
+            {
+              "descriptor": "Nanning,  Guangxi,  China",
+              "id": "9b7397e105ea1001fa452b423d740000",
+              "count": 1
+            },
+            {
+              "descriptor": "Napier, Hawke's Bay, New Zealand",
+              "id": "094a0cd6eed71000b85c1a03a2a10000",
+              "count": 5
+            },
+            {
+              "descriptor": "Nashik, Maharashtra, India",
+              "id": "094a0cd6eed71000b8272f0fe0830000",
+              "count": 20
+            },
+            {
+              "descriptor": "Nashik, Maharashtra, India",
+              "id": "094a0cd6eed71000b84b0b084b010000",
+              "count": 1
+            },
+            {
+              "descriptor": "New Berlin, Wisconsin, United States of America",
+              "id": "094a0cd6eed71000b845db076a5f0000",
+              "count": 28
+            },
+            {
+              "descriptor": "Ningbo, Zhejiang, China",
+              "id": "094a0cd6eed71000b828e6bf73e10000",
+              "count": 1
+            },
+            {
+              "descriptor": "Nogales, Sonora, Mexico",
+              "id": "094a0cd6eed71000b841d40b13d30000",
+              "count": 2
+            },
+            {
+              "descriptor": "Nottingham, Nottinghamshire, United Kingdom",
+              "id": "094a0cd6eed71000b84b5d76fbd10000",
+              "count": 2
+            },
+            {
+              "descriptor": "Notting Hill, Victoria, Australia",
+              "id": "094a0cd6eed71000b836516086330000",
+              "count": 4
+            },
+            {
+              "descriptor": "Oakville, Ontario, Canada",
+              "id": "9b7397e105ea1001fa44f4139be60000",
+              "count": 4
+            },
+            {
+              "descriptor": "Oiartzun, Guipuzcoa, Spain",
+              "id": "094a0cd6eed71000b84ab6c62f1b0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Ormond Beach, Florida, United States of America",
+              "id": "094a0cd6eed71000b8362146f2a70000",
+              "count": 4
+            },
+            {
+              "descriptor": "Orsay, Essonne, France",
+              "id": "094a0cd6eed71000b863e514b6c90000",
+              "count": 3
+            },
+            {
+              "descriptor": "Ostrava, Moravskoslezsky, Czechia",
+              "id": "094a0cd6eed71000b8298dc88ffe0000",
+              "count": 2
+            },
+            {
+              "descriptor": "Ostrava, Moravskoslezský kraj, Czechia",
+              "id": "094a0cd6eed71000b86beaeae3040000",
+              "count": 13
+            },
+            {
+              "descriptor": "Ozark, Arkansas, USA",
+              "id": "094a0cd6eed71000b8324965f28b0000",
+              "count": 2
+            },
+            {
+              "descriptor": "Paco de Arcos, Grande Lisboa, Portugal",
+              "id": "094a0cd6eed71000b8277268da600000",
+              "count": 2
+            },
+            {
+              "descriptor": "Padova, Padova, Italy",
+              "id": "094a0cd6eed71000b86b0f981acb0000",
+              "count": 2
+            },
+            {
+              "descriptor": "Paranaque City, NCR, Philippines",
+              "id": "094a0cd6eed71000b844766f8e470000",
+              "count": 3
+            },
+            {
+              "descriptor": "Paterna, Valencia, Spain",
+              "id": "094a0cd6eed71000b85c3341c3e40000",
+              "count": 3
+            },
+            {
+              "descriptor": "Penang, Pulau Pinang (Penang), Malaysia",
+              "id": "9b7397e105ea1001fa44684a81fb0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Petaling Jaya, Malaysia",
+              "id": "094a0cd6eed71000b835527d99400000",
+              "count": 3
+            },
+            {
+              "descriptor": "Petaling Jaya, Selangor, Malaysia",
+              "id": "9b7397e105ea1001fa4459e523b30000",
+              "count": 8
+            },
+            {
+              "descriptor": "Phoenix, Arizona, United States of America",
+              "id": "094a0cd6eed71000b86b7f56e1b30000",
+              "count": 4
+            },
+            {
+              "descriptor": "Pinetops, North Carolina, United States of America",
+              "id": "094a0cd6eed71000b836e973a0ea0000",
+              "count": 33
+            },
+            {
+              "descriptor": "Pinetops, North Carolina, USA",
+              "id": "094a0cd6eed71000b86154c8e0dc0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Pirkkala, Central Finland, Finland",
+              "id": "094a0cd6eed71000b858a9e6275e0000",
+              "count": 2
+            },
+            {
+              "descriptor": "Pittsburgh, Pennsylvania, United States of America",
+              "id": "094a0cd6eed71000b843109293f70000",
+              "count": 1
+            },
+            {
+              "descriptor": "Plovdiv, Plovdiv, Bulgaria",
+              "id": "094a0cd6eed71000b855b222b0ee0000",
+              "count": 3
+            },
+            {
+              "descriptor": "Plzen, Plzensky, Czechia",
+              "id": "094a0cd6eed71000b84ff1d2e52d0000",
+              "count": 2
+            },
+            {
+              "descriptor": "Plzen, Plzeňský kraj,  Czechia",
+              "id": "094a0cd6eed71000b85c6791e0ad0000",
+              "count": 5
+            },
+            {
+              "descriptor": "Pointe-Claire, Quebec, Canada",
+              "id": "094a0cd6eed71000b85ae42b397f0000",
+              "count": 5
+            },
+            {
+              "descriptor": "Porto, Porto, Portugal",
+              "id": "9b7397e105ea1001fa4402ec07e00000",
+              "count": 1
+            },
+            {
+              "descriptor": "Poznan, Greater Poland, Poland",
+              "id": "094a0cd6eed71000b8301fa40cb40000",
+              "count": 2
+            },
+            {
+              "descriptor": "Poznan, Wielkopolskie, Poland",
+              "id": "3a688b7cbaff10009aa131f20a400000",
+              "count": 1
+            },
+            {
+              "descriptor": "Prague, Praha, Czechia",
+              "id": "094a0cd6eed71000b832be200b630000",
+              "count": 5
+            },
+            {
+              "descriptor": "Przasnysz, Masovian, Poland",
+              "id": "094a0cd6eed71000b82991fce52e0000",
+              "count": 7
+            },
+            {
+              "descriptor": "Przasnysz, Mazowieckie, Poland",
+              "id": "094a0cd6eed71000b8336f04b4000000",
+              "count": 1
+            },
+            {
+              "descriptor": "Pune, Maharashtra, India",
+              "id": "1392f6b961911000fec770f655bd0000",
+              "count": 2
+            },
+            {
+              "descriptor": "Pune, Maharashtra, India",
+              "id": "094a0cd6eed71000b85341b87af60000",
+              "count": 1
+            },
+            {
+              "descriptor": "Qingdao, Shandong, China",
+              "id": "094a0cd6eed71000b84d241b194e0000",
+              "count": 2
+            },
+            {
+              "descriptor": "Qingdao, Shandong, China",
+              "id": "49eb74c64cb21001424a6ac85feb0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Quartino, Ticino, Switzerland",
+              "id": "094a0cd6eed71000b84d1eb00e270000",
+              "count": 11
+            },
+            {
+              "descriptor": "Quebec, Quebec, Canada",
+              "id": "094a0cd6eed71000b85be8160b1c0000",
+              "count": 15
+            },
+            {
+              "descriptor": "Raipur, Chhattisgarh, India",
+              "id": "5437f696e6fc10019d0ac6cf85fc0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Ramos Arizpe, Coahuila, Mexico",
+              "id": "094a0cd6eed71000b84c87b31a100000",
+              "count": 2
+            },
+            {
+              "descriptor": "Rancho Cucamonga, California, United States of America",
+              "id": "9b7397e105ea1001fa45e1cff8090000",
+              "count": 1
+            },
+            {
+              "descriptor": "Ratingen, North Rhine-Westphalia, Germany",
+              "id": "094a0cd6eed71000b85b9ecaf6850000",
+              "count": 35
+            },
+            {
+              "descriptor": "Remote, Alabama, United States of America",
+              "id": "094a0cd6eed71000fffc6a9f724c0000",
+              "count": 5
+            },
+            {
+              "descriptor": "Remote, Alabama, USA",
+              "id": "094a0cd6eed71000b84d104366660000",
+              "count": 15
+            },
+            {
+              "descriptor": "Remote, Alaska, USA",
+              "id": "094a0cd6eed71000b84544c0a8020000",
+              "count": 10
+            },
+            {
+              "descriptor": "Remote, Alberta, Canada",
+              "id": "54903e0921671001fb03bb4a3cd40000",
+              "count": 1
+            },
+            {
+              "descriptor": "Remote, American Samoa, USA",
+              "id": "094a0cd6eed71000b82a967185310000",
+              "count": 10
+            },
+            {
+              "descriptor": "Remote, Argentina",
+              "id": "094a0cd6eed71000b83ffdd30c570000",
+              "count": 1
+            },
+            {
+              "descriptor": "Remote, Arizona, United States of America",
+              "id": "094a0cd6eed71000fffc8641ff3c0000",
+              "count": 8
+            },
+            {
+              "descriptor": "Remote, Arizona, USA",
+              "id": "094a0cd6eed71000b83dfe44e3190000",
+              "count": 19
+            },
+            {
+              "descriptor": "Remote, Arkansas, United States of America",
+              "id": "9b7397e105ea1001fa4656e7bb9d0000",
+              "count": 2
+            },
+            {
+              "descriptor": "Remote, Arkansas, USA",
+              "id": "094a0cd6eed71000b83a309047270000",
+              "count": 12
+            },
+            {
+              "descriptor": "Remote, Brazil",
+              "id": "094a0cd6eed71000b855d6dac5fb0000",
+              "count": 3
+            },
+            {
+              "descriptor": "Remote, Bulgaria",
+              "id": "094a0cd6eed71000b85c16691f720000",
+              "count": 1
+            },
+            {
+              "descriptor": "Remote, California, United States of America",
+              "id": "094a0cd6eed71000fffc36f300120000",
+              "count": 9
+            },
+            {
+              "descriptor": "Remote,  California,  USA",
+              "id": "094a0cd6eed71000b83ae15d17200000",
+              "count": 14
+            },
+            {
+              "descriptor": "Remote, Canada",
+              "id": "094a0cd6eed71000b85f71c6e7f80000",
+              "count": 1
+            },
+            {
+              "descriptor": "Remote, Chile",
+              "id": "094a0cd6eed71000b82f06de7d3f0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Remote, Colombia",
+              "id": "094a0cd6eed71000b855983ccd300000",
+              "count": 1
+            },
+            {
+              "descriptor": "Remote, Colombia",
+              "id": "094a0cd6eed71000b839cf6c03240000",
+              "count": 1
+            },
+            {
+              "descriptor": "Remote, Colorado, United States of America",
+              "id": "9b7397e105ea1001fa456a4035e00000",
+              "count": 4
+            },
+            {
+              "descriptor": "Remote, Connecticut, United States of America",
+              "id": "094a0cd6eed71000fffc3a8e9e880000",
+              "count": 2
+            },
+            {
+              "descriptor": "Remote,  Connecticut,  USA",
+              "id": "094a0cd6eed71000b8271ed6e58f0000",
+              "count": 13
+            },
+            {
+              "descriptor": "Remote, Czechia",
+              "id": "094a0cd6eed71000b836924b9ce50000",
+              "count": 3
+            },
+            {
+              "descriptor": "Remote, Delaware, USA",
+              "id": "094a0cd6eed71000b857f93b0af80000",
+              "count": 12
+            },
+            {
+              "descriptor": "Remote, Denmark",
+              "id": "094a0cd6eed71000b846e750c01d0000",
+              "count": 2
+            },
+            {
+              "descriptor": "Remote, District of Columbia, United States of America",
+              "id": "094a0cd6eed71000fffcb481e7600000",
+              "count": 3
+            },
+            {
+              "descriptor": "Remote, District of Columbia, USA",
+              "id": "094a0cd6eed71000b84c2514495a0000",
+              "count": 12
+            },
+            {
+              "descriptor": "Remote, Finland",
+              "id": "094a0cd6eed71000b86319fd02010000",
+              "count": 2
+            },
+            {
+              "descriptor": "Remote, Florida, United States of America",
+              "id": "094a0cd6eed71000fffc820c30eb0000",
+              "count": 10
+            },
+            {
+              "descriptor": "Remote, Florida, USA",
+              "id": "094a0cd6eed71000b832c7bca9540000",
+              "count": 14
+            },
+            {
+              "descriptor": "Remote, France",
+              "id": "094a0cd6eed71000b86087e012ce0000",
+              "count": 6
+            },
+            {
+              "descriptor": "Remote, Georgia, United States of America",
+              "id": "094a0cd6eed71000fffc1e5109460000",
+              "count": 12
+            },
+            {
+              "descriptor": "Remote, Georgia, USA",
+              "id": "094a0cd6eed71000b84828e110ed0000",
+              "count": 15
+            },
+            {
+              "descriptor": "Remote, Germany",
+              "id": "094a0cd6eed71000b83858da89cb0000",
+              "count": 9
+            },
+            {
+              "descriptor": "Remote, Germany",
+              "id": "094a0cd6eed71000b83f755b70760000",
+              "count": 5
+            },
+            {
+              "descriptor": "Remote, Greece",
+              "id": "094a0cd6eed71000b866fdd5b5270000",
+              "count": 1
+            },
+            {
+              "descriptor": "Remote, Guam, USA",
+              "id": "094a0cd6eed71000b82d75dd08fe0000",
+              "count": 9
+            },
+            {
+              "descriptor": "Remote, Hawaii, United States of America",
+              "id": "9b7397e105ea1001fa45c75d4ea40000",
+              "count": 2
+            },
+            {
+              "descriptor": "Remote, Hawaii, USA",
+              "id": "094a0cd6eed71000b869472b016d0000",
+              "count": 9
+            },
+            {
+              "descriptor": "Remote, Idaho, United States of America",
+              "id": "094a0cd6eed71000fffc9f7cc0f20000",
+              "count": 2
+            },
+            {
+              "descriptor": "Remote, Idaho, USA",
+              "id": "094a0cd6eed71000b8586b67a9f40000",
+              "count": 14
+            },
+            {
+              "descriptor": "Remote, Illinois, United States of America",
+              "id": "9b7397e105ea1001fa465bb47d410000",
+              "count": 12
+            },
+            {
+              "descriptor": "Remote, Indiana, United States of America",
+              "id": "094a0cd6eed71000fffc53c8d8430000",
+              "count": 8
+            },
+            {
+              "descriptor": "Remote, Indiana, USA",
+              "id": "094a0cd6eed71000b83d65a8422c0000",
+              "count": 15
+            },
+            {
+              "descriptor": "Remote, Indonesia",
+              "id": "094a0cd6eed71000b83b62209cca0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Remote, Iowa, USA",
+              "id": "094a0cd6eed71000b853136acec20000",
+              "count": 13
+            },
+            {
+              "descriptor": "Remote, Ireland",
+              "id": "094a0cd6eed71000b848b9c7e5540000",
+              "count": 1
+            },
+            {
+              "descriptor": "Remote, Italy",
+              "id": "094a0cd6eed71000b853e582c92c0000",
+              "count": 2
+            },
+            {
+              "descriptor": "Remote, Italy",
+              "id": "094a0cd6eed71000b83e121a311e0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Remote, Ji'ning, Shandong, China",
+              "id": "094a0cd6eed71000b8470e5082930000",
+              "count": 1
+            },
+            {
+              "descriptor": "Remote, Kansas, United States of America",
+              "id": "094a0cd6eed71000fffc124e96430000",
+              "count": 3
+            },
+            {
+              "descriptor": "Remote, Kansas, USA",
+              "id": "094a0cd6eed71000b840f0ea5d170000",
+              "count": 13
+            },
+            {
+              "descriptor": "Remote, Kentucky, United States of America",
+              "id": "094a0cd6eed71000fffc15e945130000",
+              "count": 2
+            },
+            {
+              "descriptor": "Remote, Kentucky, USA",
+              "id": "094a0cd6eed71000b82fc31344550000",
+              "count": 13
+            },
+            {
+              "descriptor": "Remote, Lithuania",
+              "id": "094a0cd6eed71000b8272873382b0000",
+              "count": 2
+            },
+            {
+              "descriptor": "Remote, Louisiana, United States of America",
+              "id": "094a0cd6eed71000fffcad4d5bd40000",
+              "count": 5
+            },
+            {
+              "descriptor": "Remote, Louisiana, USA",
+              "id": "094a0cd6eed71000b8627b0abfd40000",
+              "count": 13
+            },
+            {
+              "descriptor": "Remote, Luoyang, Henan, China",
+              "id": "094a0cd6eed71000b869b715da070000",
+              "count": 1
+            },
+            {
+              "descriptor": "Remote, Luxembourg",
+              "id": "9b7397e105ea1001fa44727cb4e10000",
+              "count": 1
+            },
+            {
+              "descriptor": "Remote, Maine, United States of America",
+              "id": "094a0cd6eed71000b829a36f47d30000",
+              "count": 2
+            },
+            {
+              "descriptor": "Remote, Malaysia",
+              "id": "094a0cd6eed71000b834978cd26f0000",
+              "count": 2
+            },
+            {
+              "descriptor": "Remote, Manitoba, Canada",
+              "id": "9b7397e105ea1001fa455674aaa40000",
+              "count": 1
+            },
+            {
+              "descriptor": "Remote, Maryland, USA",
+              "id": "094a0cd6eed71000b86666defc6c0000",
+              "count": 12
+            },
+            {
+              "descriptor": "Remote, Massachusetts, United States of America",
+              "id": "094a0cd6eed71000fffc32bec90c0000",
+              "count": 2
+            },
+            {
+              "descriptor": "Remote, Massachusetts, USA",
+              "id": "094a0cd6eed71000b83055bca92d0000",
+              "count": 14
+            },
+            {
+              "descriptor": "Remote, Mexico",
+              "id": "094a0cd6eed71000b8378b3369d20000",
+              "count": 3
+            },
+            {
+              "descriptor": "Remote, Mexico",
+              "id": "094a0cd6eed71000b83cc2ce5ac10000",
+              "count": 2
+            },
+            {
+              "descriptor": "Remote, Michigan, United States of America",
+              "id": "094a0cd6eed71000fffc0d7f4c380000",
+              "count": 5
+            },
+            {
+              "descriptor": "Remote, Michigan, USA",
+              "id": "094a0cd6eed71000b83b436313d80000",
+              "count": 14
+            },
+            {
+              "descriptor": "Remote, Minnesota, USA",
+              "id": "094a0cd6eed71000b83e4058681c0000",
+              "count": 12
+            },
+            {
+              "descriptor": "Remote, Mississippi, United States of America",
+              "id": "094a0cd6eed71000fffc47c63e250000",
+              "count": 2
+            },
+            {
+              "descriptor": "Remote, Mississippi, USA",
+              "id": "094a0cd6eed71000b83ff4d136320000",
+              "count": 14
+            },
+            {
+              "descriptor": "Remote, Missouri, United States of America",
+              "id": "094a0cd6eed71000fffc57638b2e0000",
+              "count": 5
+            },
+            {
+              "descriptor": "Remote, Missouri, USA",
+              "id": "094a0cd6eed71000b83f5316b0b10000",
+              "count": 15
+            },
+            {
+              "descriptor": "Remote, Montana, United States of America",
+              "id": "094a0cd6eed71000b8516519c8320000",
+              "count": 2
+            },
+            {
+              "descriptor": "Remote, Montana, USA",
+              "id": "094a0cd6eed71000b86642d2ea280000",
+              "count": 12
+            },
+            {
+              "descriptor": "Remote, Nantong, Jiangsu, China",
+              "id": "094a0cd6eed71000b84052874b8d0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Remote, Nebraska, USA",
+              "id": "094a0cd6eed71000b84cf8d2e1240000",
+              "count": 12
+            },
+            {
+              "descriptor": "Remote, Nevada, United States of America",
+              "id": "9b7397e105ea1001fa45870c95ba0000",
+              "count": 3
+            },
+            {
+              "descriptor": "Remote, Nevada, USA",
+              "id": "094a0cd6eed71000b859492e86850000",
+              "count": 18
+            },
+            {
+              "descriptor": "Remote, New Hampshire, USA",
+              "id": "094a0cd6eed71000b839f081fa380000",
+              "count": 12
+            },
+            {
+              "descriptor": "Remote, New Jersey, United States of America",
+              "id": "094a0cd6eed71000fffc623505740000",
+              "count": 6
+            },
+            {
+              "descriptor": "Remote, New Jersey, USA",
+              "id": "094a0cd6eed71000b8522cff03850000",
+              "count": 13
+            },
+            {
+              "descriptor": "Remote, New Mexico, USA",
+              "id": "094a0cd6eed71000b86b76ee3db00000",
+              "count": 15
+            },
+            {
+              "descriptor": "Remote, New York, United States of America",
+              "id": "094a0cd6eed71000fffc21ec0a080000",
+              "count": 2
+            },
+            {
+              "descriptor": "Remote, New York, USA",
+              "id": "094a0cd6eed71000b845d6d2ab190000",
+              "count": 15
+            },
+            {
+              "descriptor": "Remote, North Carolina, United States of America",
+              "id": "9b7397e105ea1001fa45f0da51b60000",
+              "count": 9
+            },
+            {
+              "descriptor": "Remote, North Carolina, USA",
+              "id": "094a0cd6eed71000b8538bb92b5a0000",
+              "count": 16
+            },
+            {
+              "descriptor": "Remote, North Dakota, USA",
+              "id": "094a0cd6eed71000b828ef28aa7f0000",
+              "count": 12
+            },
+            {
+              "descriptor": "Remote, Northern Mariana Islands, USA",
+              "id": "094a0cd6eed71000b85030e7edb50000",
+              "count": 9
+            },
+            {
+              "descriptor": "Remote, Norway",
+              "id": "094a0cd6eed71000b828b740e4700000",
+              "count": 1
+            },
+            {
+              "descriptor": "Remote, Ohio, United States of America",
+              "id": "9b7397e105ea1001fa457cd79c360000",
+              "count": 10
+            },
+            {
+              "descriptor": "Remote, Ohio, USA",
+              "id": "094a0cd6eed71000b849c1aa693a0000",
+              "count": 14
+            },
+            {
+              "descriptor": "Remote, Oklahoma, United States of America",
+              "id": "094a0cd6eed71000fffc29bb4c6a0000",
+              "count": 4
+            },
+            {
+              "descriptor": "Remote, Oklahoma, USA",
+              "id": "094a0cd6eed71000b84799dd3cd50000",
+              "count": 15
+            },
+            {
+              "descriptor": "Remote, Ontario, Canada",
+              "id": "9b7397e105ea1001fa45357514940000",
+              "count": 1
+            },
+            {
+              "descriptor": "Remote, Oregon, United States of America",
+              "id": "9b7397e105ea1001fa45733f20ac0000",
+              "count": 6
+            },
+            {
+              "descriptor": "Remote, Oregon USA",
+              "id": "094a0cd6eed71000b828210f3f290000",
+              "count": 16
+            },
+            {
+              "descriptor": "Remote, Panama",
+              "id": "094a0cd6eed71000b83475d865b40000",
+              "count": 3
+            },
+            {
+              "descriptor": "Remote, Pennsylvania, United States of America",
+              "id": "9b7397e105ea1001fa45780b658c0000",
+              "count": 8
+            },
+            {
+              "descriptor": "Remote, Pennsylvania, USA",
+              "id": "094a0cd6eed71000b84dba679f140000",
+              "count": 17
+            },
+            {
+              "descriptor": "Remote, Peru,",
+              "id": "094a0cd6eed71000b860482bd6660000",
+              "count": 1
+            },
+            {
+              "descriptor": "Remote, Philippines",
+              "id": "094a0cd6eed71000b85a9ca9c04c0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Remote, Poland",
+              "id": "094a0cd6eed71000b827bf0f832a0000",
+              "count": 6
+            },
+            {
+              "descriptor": "Remote, Poland",
+              "id": "094a0cd6eed71000b8504ef9348e0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Remote, Portugal",
+              "id": "094a0cd6eed71000b8392fa5931d0000",
+              "count": 4
+            },
+            {
+              "descriptor": "Remote, Puerto Rico",
+              "id": "094a0cd6eed71000fffc502e42440000",
+              "count": 2
+            },
+            {
+              "descriptor": "Remote , Puerto Rico",
+              "id": "094a0cd6eed71000b862ddd9a9640000",
+              "count": 9
+            },
+            {
+              "descriptor": "Remote, Quebec, Canada",
+              "id": "9b7397e105ea1001fa453a41eab80000",
+              "count": 2
+            },
+            {
+              "descriptor": "Remote, Rhode Island, USA",
+              "id": "094a0cd6eed71000b869649f80a30000",
+              "count": 12
+            },
+            {
+              "descriptor": "Remote, Romania,",
+              "id": "58cfc0ea497b1000b7ffcb3e3f720000",
+              "count": 1
+            },
+            {
+              "descriptor": "Remote, Saskatchewan, Canada",
+              "id": "9b7397e105ea1001fa4560a72f3f0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Remote, South Carolina, United States of America",
+              "id": "094a0cd6eed71000fffc1a1d03210000",
+              "count": 4
+            },
+            {
+              "descriptor": "Remote, South Carolina, USA",
+              "id": "094a0cd6eed71000b82bec1a18920000",
+              "count": 13
+            },
+            {
+              "descriptor": "Remote, South Dakota, USA",
+              "id": "094a0cd6eed71000b83e241f292c0000",
+              "count": 13
+            },
+            {
+              "descriptor": "Remote, Spain",
+              "id": "094a0cd6eed71000b844f2f87d390000",
+              "count": 6
+            },
+            {
+              "descriptor": "Remote, Spain",
+              "id": "094a0cd6eed71000b82b2ec55f290000",
+              "count": 3
+            },
+            {
+              "descriptor": "Remote, Sweden",
+              "id": "094a0cd6eed71000b83d92ba3d140000",
+              "count": 4
+            },
+            {
+              "descriptor": "Remote, Sweden",
+              "id": "094a0cd6eed71000b85f2de9800d0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Remote, Switzerland,",
+              "id": "094a0cd6eed71000b8607aa6c8cd0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Remote, Tennessee, United States of America",
+              "id": "094a0cd6eed71000fffc6f6d67fa0000",
+              "count": 6
+            },
+            {
+              "descriptor": "Remote, Tennessee, USA",
+              "id": "094a0cd6eed71000b85ef87259cc0000",
+              "count": 14
+            },
+            {
+              "descriptor": "Remote, Texas, United States of America",
+              "id": "094a0cd6eed71000fffc3ec416110000",
+              "count": 21
+            },
+            {
+              "descriptor": "Remote, Texas, USA",
+              "id": "094a0cd6eed71000b861981ae3310000",
+              "count": 17
+            },
+            {
+              "descriptor": "Remote, United Kingdom,",
+              "id": "094a0cd6eed71000b842084d9e750000",
+              "count": 8
+            },
+            {
+              "descriptor": "Remote, United Kingdom,",
+              "id": "094a0cd6eed71000b85a720194590000",
+              "count": 5
+            },
+            {
+              "descriptor": "Remote, United States Minor Outlying Islands, USA",
+              "id": "094a0cd6eed71000b82f973185800000",
+              "count": 9
+            },
+            {
+              "descriptor": "Remote, Utah, United States of America",
+              "id": "094a0cd6eed71000fffc4bfa2e1a0000",
+              "count": 6
+            },
+            {
+              "descriptor": "Remote, Utah, USA",
+              "id": "094a0cd6eed71000b85fd39d81b30000",
+              "count": 13
+            },
+            {
+              "descriptor": "Remote, Vermont, USA",
+              "id": "094a0cd6eed71000b8417806e3710000",
+              "count": 12
+            },
+            {
+              "descriptor": "Remote, Virginia, United States of America",
+              "id": "094a0cd6eed71000fffc9b488f470000",
+              "count": 9
+            },
+            {
+              "descriptor": "Remote, Virginia, USA",
+              "id": "094a0cd6eed71000b838d74c8b770000",
+              "count": 12
+            },
+            {
+              "descriptor": "Remote, Virgin Islands, USA",
+              "id": "094a0cd6eed71000b8546dc4ead90000",
+              "count": 8
+            },
+            {
+              "descriptor": "Remote, Washington, United States of America",
+              "id": "094a0cd6eed71000fffc7e711b1f0000",
+              "count": 9
+            },
+            {
+              "descriptor": "Remote, Washington, USA",
+              "id": "094a0cd6eed71000b828916314ce0000",
+              "count": 13
+            },
+            {
+              "descriptor": "Remote, West Virginia, United States of America",
+              "id": "094a0cd6eed71000fffc743abc270000",
+              "count": 2
+            },
+            {
+              "descriptor": "Remote, West Virginia, USA",
+              "id": "094a0cd6eed71000b82ec557e42d0000",
+              "count": 12
+            },
+            {
+              "descriptor": "Remote, Wisconsin, United States of America",
+              "id": "094a0cd6eed71000fffc8e11c5e20000",
+              "count": 6
+            },
+            {
+              "descriptor": "Remote, Wisconsin, USA",
+              "id": "094a0cd6eed71000b83d074d6b140000",
+              "count": 13
+            },
+            {
+              "descriptor": "Remote, Wuhu, Anhui, China",
+              "id": "094a0cd6eed71000b83b074119370000",
+              "count": 2
+            },
+            {
+              "descriptor": "Remote, Wyoming, USA",
+              "id": "094a0cd6eed71000b85a1cb2811a0000",
+              "count": 13
+            },
+            {
+              "descriptor": "Richmond, Virginia, United States of America",
+              "id": "094a0cd6eed71000b83b19e323380000",
+              "count": 41
+            },
+            {
+              "descriptor": "Richmond, Virginia, USA",
+              "id": "094a0cd6eed71000b8549035fac80000",
+              "count": 2
+            },
+            {
+              "descriptor": "Riga, Rīga, Latvia",
+              "id": "9b7397e105ea1001fa442fe997300000",
+              "count": 2
+            },
+            {
+              "descriptor": "Riyadh, Riyadh, Saudi Arabia",
+              "id": "094a0cd6eed71000b834a73517f80000",
+              "count": 3
+            },
+            {
+              "descriptor": "Rotterdam, South Holland, Netherlands",
+              "id": "094a0cd6eed71000b83a9e98c32e0000",
+              "count": 21
+            },
+            {
+              "descriptor": "Rotterdam, South Holland, Netherlands",
+              "id": "cb7c6ba95780100100f9bd01821f0000",
+              "count": 2
+            },
+            {
+              "descriptor": "Saint-Jean-sur-Richelieu, Quebec, Canada",
+              "id": "094a0cd6eed71000b849a560163f0000",
+              "count": 4
+            },
+            {
+              "descriptor": "Saint-Laurent, Quebec, Canada",
+              "id": "094a0cd6eed71000b8594cc969520000",
+              "count": 16
+            },
+            {
+              "descriptor": "Saint-Laurent, Quebec, Canada",
+              "id": "094a0cd6eed71000b833c8015cce0000",
+              "count": 5
+            },
+            {
+              "descriptor": "Saint Louis, Missouri, USA",
+              "id": "094a0cd6eed71000b82e9bdfc3b20000",
+              "count": 3
+            },
+            {
+              "descriptor": "Saint Neots, Cambridgeshire, United Kingdom",
+              "id": "094a0cd6eed71000b84b2de9f97e0000",
+              "count": 5
+            },
+            {
+              "descriptor": "Saint Neots, Cambridgeshire, United Kingdom",
+              "id": "094a0cd6eed71000b830aff88d590000",
+              "count": 1
+            },
+            {
+              "descriptor": "Saint-Priest, Rhone, France",
+              "id": "094a0cd6eed71000b84caa9f0d120000",
+              "count": 1
+            },
+            {
+              "descriptor": "Saint-Remi, Quebec, Canada",
+              "id": "094a0cd6eed71000b8694ac7e2990000",
+              "count": 1
+            },
+            {
+              "descriptor": "Salzburg, Salzburg, Austria",
+              "id": "094a0cd6eed71000b839c3e649450000",
+              "count": 2
+            },
+            {
+              "descriptor": "San Luis Potosi, San Luis Potosi, Mexico",
+              "id": "b26df230b95b1000ad6aadbbc5620000",
+              "count": 2
+            },
+            {
+              "descriptor": "San Luis Potosi, San Luis Potosí, Mexico",
+              "id": "094a0cd6eed71000b840cce27bbb0000",
+              "count": 25
+            },
+            {
+              "descriptor": "San Pedro Garza Garcia, Nuevo León,  Mexico",
+              "id": "9b7397e105ea1001fa44504caeec0000",
+              "count": 4
+            },
+            {
+              "descriptor": "Santa Paolina, Italy",
+              "id": "094a0cd6eed71000b82b29f620bb0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Santiago, Region Metropolitana de Santiago, Chile",
+              "id": "094a0cd6eed71000b847f1a332660000",
+              "count": 9
+            },
+            {
+              "descriptor": "Sant Quirze del Valles, Barcelona, Spain",
+              "id": "094a0cd6eed71000b82de95056210000",
+              "count": 7
+            },
+            {
+              "descriptor": "Sant Quirze del Valles, Barcelona, Spain",
+              "id": "094a0cd6eed71000b82efddaa4f30000",
+              "count": 1
+            },
+            {
+              "descriptor": "São Paulo, São Paulo, Brazil",
+              "id": "094a0cd6eed71000b858df65318d0000",
+              "count": 8
+            },
+            {
+              "descriptor": "Sarajevo, Bosnia",
+              "id": "094a0cd6eed71000b83a372d8ee40000",
+              "count": 2
+            },
+            {
+              "descriptor": "Sarajevo, Sarajevo, Bosnia and Herzegovina",
+              "id": "094a0cd6eed71000b82afeaa89220000",
+              "count": 2
+            },
+            {
+              "descriptor": "Sasbach, Baden-Wurttemberg, Germany",
+              "id": "094a0cd6eed71000b82a4a9709d50000",
+              "count": 19
+            },
+            {
+              "descriptor": "Schaffhausen, Schaffhausen, Switzerland",
+              "id": "094a0cd6eed71000b84244fe404c0000",
+              "count": 4
+            },
+            {
+              "descriptor": "Selmer, Tennessee, USA",
+              "id": "094a0cd6eed71000b86172da67640000",
+              "count": 1
+            },
+            {
+              "descriptor": "Seoul, Seoul, Korea",
+              "id": "b84a97bf29121001494c54234be80000",
+              "count": 4
+            },
+            {
+              "descriptor": "Seoul, Seoul, Korea",
+              "id": "2af3842996ff1001e97de20bc1820000",
+              "count": 2
+            },
+            {
+              "descriptor": "Serris, Paris, France",
+              "id": "094a0cd6eed71000b830d83e60b20000",
+              "count": 1
+            },
+            {
+              "descriptor": "Sesto San Giovanni, Milano, Italy",
+              "id": "094a0cd6eed71000b842e723c2c40000",
+              "count": 16
+            },
+            {
+              "descriptor": "Sesto San Giovanni, Milano, Italy",
+              "id": "094a0cd6eed71000b843e5ae84e30000",
+              "count": 1
+            },
+            {
+              "descriptor": "Sevilla, Sevilla, Spain",
+              "id": "094a0cd6eed71000b82aa9b772e10000",
+              "count": 2
+            },
+            {
+              "descriptor": "Shah Alam, Selangor, Malaysia",
+              "id": "a8ac493850b1100152bb6997c83a0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Shanghai, Shanghai, China",
+              "id": "094a0cd6eed71000b83aa8d38a120000",
+              "count": 132
+            },
+            {
+              "descriptor": "Shanghai, Shanghai, China",
+              "id": "b84a97bf2912100197eb21be84340000",
+              "count": 1
+            },
+            {
+              "descriptor": "Shanghai, Shanghai, China",
+              "id": "094a0cd6eed71000b8342112745a0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Shanghai, Shanghai, China",
+              "id": "094a0cd6eed71000b82827aae2ac0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Sharkia, Egypt",
+              "id": "094a0cd6eed71000b828ce18e18d0000",
+              "count": 2
+            },
+            {
+              "descriptor": "Shenyang, Liaoning, China",
+              "id": "094a0cd6eed71000b83a9027be850000",
+              "count": 1
+            },
+            {
+              "descriptor": "Shenzhen, Guangdong, China",
+              "id": "094a0cd6eed71000b83cb9cabc260000",
+              "count": 3
+            },
+            {
+              "descriptor": "Shijiazhuang, Hebei, China",
+              "id": "094a0cd6eed71000b8684d6f60a40000",
+              "count": 1
+            },
+            {
+              "descriptor": "Singapore, Central Singapore, Singapore",
+              "id": "094a0cd6eed71000b83bba802f1e0000",
+              "count": 15
+            },
+            {
+              "descriptor": "Singapore, Singapore",
+              "id": "094a0cd6eed71000b846ed554cb30000",
+              "count": 1
+            },
+            {
+              "descriptor": "Singleton, New South Wales, Australia",
+              "id": "094a0cd6eed71000b840448fb3990000",
+              "count": 1
+            },
+            {
+              "descriptor": "Skien, Telemark, Norway",
+              "id": "094a0cd6eed71000b863e0e0b3de0000",
+              "count": 3
+            },
+            {
+              "descriptor": "Sofia, Sofia, Bulgaria",
+              "id": "094a0cd6eed71000b8459078d3d10000",
+              "count": 1
+            },
+            {
+              "descriptor": "Sorocaba, Sao Paulo, Brazil",
+              "id": "094a0cd6eed71000b850532f31310000",
+              "count": 5
+            },
+            {
+              "descriptor": "South Charleston, West Virginia, USA",
+              "id": "5dad37f301a51001967c7fb776ed0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Split, Splitsko-dalmatinska, Croatia",
+              "id": "094a0cd6eed71000b82c9c367a9b0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Stockport, Greater Manchester, United Kingdom",
+              "id": "e4a8e484d99c1000fe944ecbc4280000",
+              "count": 2
+            },
+            {
+              "descriptor": "Stonehouse, Gloucestershire, United Kingdom",
+              "id": "094a0cd6eed71000b86bbe7104f60000",
+              "count": 4
+            },
+            {
+              "descriptor": "Stord, Rogaland, Norway",
+              "id": "094a0cd6eed71000b83dc197766d0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Stryama, Plovdiv, Bulgaria",
+              "id": "094a0cd6eed71000b82a45c526c70000",
+              "count": 60
+            },
+            {
+              "descriptor": "Sudbury, Ontario, Canada",
+              "id": "094a0cd6eed71000b827561f74140000",
+              "count": 4
+            },
+            {
+              "descriptor": "Surabaya, Jawa Timur, Indonesia",
+              "id": "094a0cd6eed71000b84152cba0b70000",
+              "count": 1
+            },
+            {
+              "descriptor": "Suzhou, Jiangsu, China",
+              "id": "094a0cd6eed71000b8299b05c1200000",
+              "count": 3
+            },
+            {
+              "descriptor": "Syracuse, New York, United States of America",
+              "id": "9b7397e105ea1001fa458c7518c00000",
+              "count": 1
+            },
+            {
+              "descriptor": "Taipei, Taipei City, Taiwan",
+              "id": "34481c88699c100142c7c2e28e460000",
+              "count": 1
+            },
+            {
+              "descriptor": "Taipei City, Taipei City, Taiwan",
+              "id": "094a0cd6eed71000b860800fe3d80000",
+              "count": 6
+            },
+            {
+              "descriptor": "Taiyuan, Shanxi, China",
+              "id": "094a0cd6eed71000b86923ad1eaf0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Tallinn, Harju, Estonia",
+              "id": "094a0cd6eed71000b866724c98060000",
+              "count": 8
+            },
+            {
+              "descriptor": "Tallinn, Harju, Estonia",
+              "id": "4a1ad75be78f1000f40dffe8da300000",
+              "count": 1
+            },
+            {
+              "descriptor": "Tampere, Pirkanmaa, Finland",
+              "id": "094a0cd6eed71000b84c126f0af80000",
+              "count": 1
+            },
+            {
+              "descriptor": "Tangerang, Banten, Indonesia",
+              "id": "094a0cd6eed71000b836029f873f0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Tangerang, Banten, Indonesia",
+              "id": "094a0cd6eed71000b8270899ade10000",
+              "count": 1
+            },
+            {
+              "descriptor": "Three Rivers, Quebec, Canada",
+              "id": "094a0cd6eed71000b8346c3b8e160000",
+              "count": 1
+            },
+            {
+              "descriptor": "Thungmahamek, Bangkok, Thailand",
+              "id": "9b7397e105ea1001fa46217c302a0000",
+              "count": 7
+            },
+            {
+              "descriptor": "Tianjin, Tianjin, China",
+              "id": "094a0cd6eed71000b8483a4ca29b0000",
+              "count": 2
+            },
+            {
+              "descriptor": "Tlajomulco de Zuniga, Jalisco, Mexico",
+              "id": "9b7397e105ea1001fa43e023ccd60000",
+              "count": 1
+            },
+            {
+              "descriptor": "Tokyo, Tokyo, Japan",
+              "id": "094a0cd6eed71000b82ccfec602c0000",
+              "count": 9
+            },
+            {
+              "descriptor": "Toyota-shi, Aichi, Japan",
+              "id": "094a0cd6eed71000b84263a2c6130000",
+              "count": 1
+            },
+            {
+              "descriptor": "Trapagaran, Bizkaia, Spain",
+              "id": "094a0cd6eed71000b85edfcf46aa0000",
+              "count": 4
+            },
+            {
+              "descriptor": "Ulsan, Ulsan,  Republic of Korea",
+              "id": "094a0cd6eed71000b86899e01d0e0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Untersiggenthal, Aargau, Switzerland",
+              "id": "094a0cd6eed71000b82ab8c5fe7d0000",
+              "count": 6
+            },
+            {
+              "descriptor": "Untersiggenthal, Aargau, Switzerland",
+              "id": "094a0cd6eed71000b82b071582900000",
+              "count": 1
+            },
+            {
+              "descriptor": "Urumqi, Xinjiang, China",
+              "id": "094a0cd6eed71000b83b013e90170000",
+              "count": 1
+            },
+            {
+              "descriptor": "USA, AL,  Birmingham, Home Office",
+              "id": "094a0cd6eed71000b82ba65f78410000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, AL,  Courtland, Home Office",
+              "id": "094a0cd6eed71000b8535c3424d00000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, AL,  Montgomery, Home Office",
+              "id": "094a0cd6eed71000b847b3b6cf060000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, AL,  Muscle Shoals, Home Office",
+              "id": "094a0cd6eed71000b866242be0080000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, AL,  Prattville, Home Office",
+              "id": "094a0cd6eed71000b8525b4516f90000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, AL,  Theodore, Home Office",
+              "id": "094a0cd6eed71000b84e268a82c70000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, AR,  Ashdown, Home Office",
+              "id": "094a0cd6eed71000b82cefc3d0180000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, AR,  Clarksville, Home Office",
+              "id": "094a0cd6eed71000b8651a9a1ef20000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, AR,  Crossett, Home Office",
+              "id": "094a0cd6eed71000b8386a51555a0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, AR,  Fort Smith, Home Office",
+              "id": "094a0cd6eed71000b837642627a50000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, AR, Jonesboro",
+              "id": "094a0cd6eed71000b86b1b9a63130000",
+              "count": 14
+            },
+            {
+              "descriptor": "USA, AR,  Jonesboro, Home Office",
+              "id": "094a0cd6eed71000b82d68a1fca90000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, AR,  McGehee, Home Office",
+              "id": "094a0cd6eed71000b850f25d95bf0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, AR, Ozark",
+              "id": "094a0cd6eed71000b83451c6cd400000",
+              "count": 1
+            },
+            {
+              "descriptor": "USA, AR,  Ozark, Home Office",
+              "id": "094a0cd6eed71000b86a2e2f0dc70000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, AR,  Pine Bluff, Home Office",
+              "id": "094a0cd6eed71000b83d4e3997d60000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, AS, Remote",
+              "id": "094a0cd6eed71000b8306e60049a0000",
+              "count": 2
+            },
+            {
+              "descriptor": "USA, AZ,  Tucson, Home Office",
+              "id": "094a0cd6eed71000b83ef2ee85b40000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, CA,  Anaheim, Home Office",
+              "id": "094a0cd6eed71000b82cd722121b0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, CA,  Carlsbad, Home Office",
+              "id": "094a0cd6eed71000b84d9220dcc80000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, CA,  Carson, Home Office",
+              "id": "094a0cd6eed71000b85a4d5ccebe0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, CA,  Concord, Home Office",
+              "id": "094a0cd6eed71000b84a52e86bf20000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, CA,  Irvine, Home Office",
+              "id": "094a0cd6eed71000b82d06014db10000",
+              "count": 9
+            },
+            {
+              "descriptor": "USA, CA,  La Palma, Home Office",
+              "id": "094a0cd6eed71000b85116f968e10000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, CA,  Napa, Home Office",
+              "id": "094a0cd6eed71000b8513e9fc11d0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, CA,  Pomona, Home Office",
+              "id": "094a0cd6eed71000b827471a09bb0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, CA,  San Diego, Home Office",
+              "id": "094a0cd6eed71000b82d1ea423770000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, CA,  San Francisco, Home Office",
+              "id": "094a0cd6eed71000b855cf07e55b0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, CA,  San Jose, Home Office",
+              "id": "094a0cd6eed71000b864f85356110000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, CO, Denver",
+              "id": "094a0cd6eed71000b8303e4acb660000",
+              "count": 1
+            },
+            {
+              "descriptor": "USA, CO, Home Office",
+              "id": "094a0cd6eed71000b838a00013230000",
+              "count": 19
+            },
+            {
+              "descriptor": "USA, CT, Bloomfield",
+              "id": "094a0cd6eed71000b8344d90bfb90000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, CT,  Bloomfield, Home Office",
+              "id": "094a0cd6eed71000b867c27364980000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, CT,  Danbury, Home Office",
+              "id": "094a0cd6eed71000b852008060e50000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, CT,  Norwalk, Home Office",
+              "id": "094a0cd6eed71000b83e995cc73a0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, CT,  Plainville, Home Office",
+              "id": "094a0cd6eed71000b831ddc8633c0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, CT,  Wilton, Home Office",
+              "id": "094a0cd6eed71000b847369fe2d10000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, CT,  Windsor, Home Office",
+              "id": "094a0cd6eed71000b85f95d3c1d40000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, DE, Remote",
+              "id": "094a0cd6eed71000b84b8b2d051e0000",
+              "count": 2
+            },
+            {
+              "descriptor": "USA, FL, Lake Mary",
+              "id": "094a0cd6eed71000b86b1766dc6f0000",
+              "count": 7
+            },
+            {
+              "descriptor": "USA, FL,  Ormond Beach, Home Office",
+              "id": "094a0cd6eed71000b8302c43106d0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, GA,  Albany, Home Office",
+              "id": "094a0cd6eed71000b85194e966670000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, GA, Athens",
+              "id": "094a0cd6eed71000b8504a295afd0000",
+              "count": 4
+            },
+            {
+              "descriptor": "USA, GA,  Athens, Home Office",
+              "id": "094a0cd6eed71000b85b6cf646d10000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, GA, Flowery Branch",
+              "id": "094a0cd6eed71000b843f37f20be0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, GA,  Flowery Branch, Home Office",
+              "id": "094a0cd6eed71000b839045c04080000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, GA,  Gainesville, Home Office",
+              "id": "094a0cd6eed71000b832e40934100000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, GA,  Rome, Home Office",
+              "id": "094a0cd6eed71000b868f68f49020000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, GA,  Savannah, Home Office",
+              "id": "094a0cd6eed71000b863741ef2b20000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, GA,  Valdosta, Home Office",
+              "id": "094a0cd6eed71000b83a4ea00cf20000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, GU, Remote",
+              "id": "094a0cd6eed71000b85e7fa520c90000",
+              "count": 1
+            },
+            {
+              "descriptor": "USA, IA, Remote",
+              "id": "094a0cd6eed71000fffc2620978b0000",
+              "count": 3
+            },
+            {
+              "descriptor": "USA, ID,  Lewiston, Home Office",
+              "id": "094a0cd6eed71000b843c83e67480000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, IL, Home Office",
+              "id": "094a0cd6eed71000b83b5d47b0080000",
+              "count": 16
+            },
+            {
+              "descriptor": "USA, IL, Lombard",
+              "id": "094a0cd6eed71000b82fc748eb550000",
+              "count": 2
+            },
+            {
+              "descriptor": "USA, IN, Carmel",
+              "id": "094a0cd6eed71000b84ca23218b50000",
+              "count": 1
+            },
+            {
+              "descriptor": "USA, IN,  Evansville, Home Office",
+              "id": "094a0cd6eed71000b8495698fabb0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, IN, Indianapolis",
+              "id": "094a0cd6eed71000b83f87ff75310000",
+              "count": 1
+            },
+            {
+              "descriptor": "USA, IN, Portage",
+              "id": "094a0cd6eed71000b82b43336dce0000",
+              "count": 1
+            },
+            {
+              "descriptor": "USA, KS,  Liberal, Home Office",
+              "id": "094a0cd6eed71000b83ceb0db6dc0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, KY,  Hawesville, Home Office",
+              "id": "094a0cd6eed71000b82a1a7b179d0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, KY,  Lexington, Home Office",
+              "id": "094a0cd6eed71000b83a8abd866c0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, KY,  Louisville, Home Office",
+              "id": "094a0cd6eed71000b82b751529110000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, KY,  Wickliffe, Home Office",
+              "id": "094a0cd6eed71000b86a9cd02e060000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, LA,  DeRidder, Home Office",
+              "id": "094a0cd6eed71000b836dc52cd8e0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, LA,  Hahnville, Home Office",
+              "id": "094a0cd6eed71000b845f446e0500000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, LA,  Saint Francisville, Home Office",
+              "id": "094a0cd6eed71000b83b86cf16140000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, MA,  Billerica, Home Office",
+              "id": "094a0cd6eed71000b86533da2c330000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, MA,  Burlington, Home Office",
+              "id": "094a0cd6eed71000b853dd1407120000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, MA,  Medford, Home Office",
+              "id": "094a0cd6eed71000b86732bf1cdb0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, MA, Quincy",
+              "id": "094a0cd6eed71000b83b117968430000",
+              "count": 1
+            },
+            {
+              "descriptor": "USA, MA,  Quincy, Home Office",
+              "id": "094a0cd6eed71000b8433b2ac7950000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, MD, Remote",
+              "id": "094a0cd6eed71000fffc439259800000",
+              "count": 4
+            },
+            {
+              "descriptor": "USA, ME,  Auburn, Home Office",
+              "id": "094a0cd6eed71000b869f0418e0e0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, ME, Home Office",
+              "id": "094a0cd6eed71000b833df72b3150000",
+              "count": 13
+            },
+            {
+              "descriptor": "USA, ME,  Skowhegan, Home Office",
+              "id": "094a0cd6eed71000b861dfa736fa0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, ME,  Westbrook, Home Office",
+              "id": "094a0cd6eed71000b845c5fd01910000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, ME,  Yarmouth, Home Office",
+              "id": "094a0cd6eed71000b83cde7128940000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, MI, Auburn Hills",
+              "id": "094a0cd6eed71000b848013de08d0000",
+              "count": 12
+            },
+            {
+              "descriptor": "USA, MI,  Auburn Hills, Home Office",
+              "id": "094a0cd6eed71000b86aee89337a0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, MI,  Escanaba, Home Office",
+              "id": "094a0cd6eed71000b840b00aa5c60000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, MN, Remote",
+              "id": "094a0cd6eed71000fffc91ac1b6f0000",
+              "count": 2
+            },
+            {
+              "descriptor": "USA, MO,  Earth City, Home Office",
+              "id": "094a0cd6eed71000b8286dedd3a20000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, MO,  Jefferson City, Home Office",
+              "id": "094a0cd6eed71000b860bafa3bc90000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, MO, Saint Louis",
+              "id": "094a0cd6eed71000b84aff9ae58f0000",
+              "count": 17
+            },
+            {
+              "descriptor": "USA, MP, Remote",
+              "id": "094a0cd6eed71000b86a31caf3650000",
+              "count": 1
+            },
+            {
+              "descriptor": "USA, MS, Byhalia",
+              "id": "094a0cd6eed71000b82d3b88c19d0000",
+              "count": 10
+            },
+            {
+              "descriptor": "USA, MS,  Byhalia, Home Office",
+              "id": "094a0cd6eed71000b85feb0872290000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, MS,  Columbus, Home Office",
+              "id": "094a0cd6eed71000b828585080d40000",
+              "count": 13
+            },
+            {
+              "descriptor": "USA, MS,  Crystal Springs, Home Office",
+              "id": "094a0cd6eed71000b848869d4c6b0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, MS, Senatobia",
+              "id": "094a0cd6eed71000b835bbb5dfe00000",
+              "count": 31
+            },
+            {
+              "descriptor": "USA, MS,  Senatobia, Home Office",
+              "id": "094a0cd6eed71000b82dfa2717580000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, MT,  Colstrip, Home Office",
+              "id": "094a0cd6eed71000b85f4dc015670000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, NC,  Canton, Home Office",
+              "id": "094a0cd6eed71000b856b0c3959b0000",
+              "count": 9
+            },
+            {
+              "descriptor": "USA, NC, Cary",
+              "id": "094a0cd6eed71000b833bf97d9740000",
+              "count": 26
+            },
+            {
+              "descriptor": "USA, NC, Hickory",
+              "id": "094a0cd6eed71000b842265793a50000",
+              "count": 1
+            },
+            {
+              "descriptor": "USA, NC,  Hickory, Home Office",
+              "id": "094a0cd6eed71000b85f258182ba0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, NC,  Kings Mountain, Home Office",
+              "id": "094a0cd6eed71000b8419d41fe620000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, NC,  Marion, Home Office",
+              "id": "094a0cd6eed71000b8601b1bdf340000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, NC, Mebane",
+              "id": "094a0cd6eed71000b84e54cbeafa0000",
+              "count": 108
+            },
+            {
+              "descriptor": "USA, NC, Raleigh",
+              "id": "094a0cd6eed71000b84e9186592d0000",
+              "count": 1
+            },
+            {
+              "descriptor": "USA, NC,  Shelby, Home Office",
+              "id": "094a0cd6eed71000b82dc40c65c80000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, NC,  Weaverville, Home Office",
+              "id": "094a0cd6eed71000b83838ed47470000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, NE, Remote",
+              "id": "094a0cd6eed71000b82cc34d304c0000",
+              "count": 5
+            },
+            {
+              "descriptor": "USA, NE, Remote",
+              "id": "094a0cd6eed71000fffca9b2c52a0000",
+              "count": 2
+            },
+            {
+              "descriptor": "USA, NH, Remote",
+              "id": "094a0cd6eed71000fffcb0e7431e0000",
+              "count": 3
+            },
+            {
+              "descriptor": "USA, NJ,  Cedar Knolls, Home Office",
+              "id": "094a0cd6eed71000b84ba16a3d330000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, NJ,  Hackensack, Home Office",
+              "id": "094a0cd6eed71000b85436fb922e0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, NJ, Hackettstown",
+              "id": "094a0cd6eed71000b8446202a7ec0000",
+              "count": 7
+            },
+            {
+              "descriptor": "USA, NJ,  Hackettstown, Home Office",
+              "id": "094a0cd6eed71000b86c2ecf412f0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, NJ,  Linden, Home Office",
+              "id": "094a0cd6eed71000b84f9d0c716a0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, NJ,  North Brunswick, Home Office",
+              "id": "094a0cd6eed71000b849233ac7260000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, NJ,  South Brunswick, Home Office",
+              "id": "094a0cd6eed71000b86438a292a80000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, NM, Albuquerque",
+              "id": "094a0cd6eed71000b84a72ca23990000",
+              "count": 2
+            },
+            {
+              "descriptor": "USA, NM, Remote",
+              "id": "094a0cd6eed71000fffc666a496e0000",
+              "count": 3
+            },
+            {
+              "descriptor": "USA, NY, Schenectady",
+              "id": "094a0cd6eed71000b82785f64b2e0000",
+              "count": 1
+            },
+            {
+              "descriptor": "USA, NY,  Staten Island, Home Office",
+              "id": "094a0cd6eed71000b82f5946b2180000",
+              "count": 9
+            },
+            {
+              "descriptor": "USA, OH, Cleveland",
+              "id": "094a0cd6eed71000b85a9874fee80000",
+              "count": 14
+            },
+            {
+              "descriptor": "USA, OH, Columbus",
+              "id": "094a0cd6eed71000b85aa4795fe50000",
+              "count": 1
+            },
+            {
+              "descriptor": "USA, OH, Westerville",
+              "id": "094a0cd6eed71000b8404cf8a93f0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, OK,  Bartlesville, Home Office",
+              "id": "094a0cd6eed71000b8638cc223a90000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, OK,  Oklahoma City, Home Office",
+              "id": "094a0cd6eed71000b84d767a5b160000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, OK,  Tulsa, Home Office",
+              "id": "094a0cd6eed71000b84d57d1e1d30000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, OK, Westville",
+              "id": "094a0cd6eed71000b84e83b1efcb0000",
+              "count": 1
+            },
+            {
+              "descriptor": "USA, OK,  Westville, Home Office",
+              "id": "094a0cd6eed71000b8680541191f0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, OR, Clackamas",
+              "id": "094a0cd6eed71000b82d9e2918870000",
+              "count": 1
+            },
+            {
+              "descriptor": "USA, OR,  The Dalles, Home Office",
+              "id": "094a0cd6eed71000b8581a478a860000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, PA,  Erie, Home Office",
+              "id": "094a0cd6eed71000b833793d00c90000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, RI, Remote",
+              "id": "094a0cd6eed71000b84f7564fca00000",
+              "count": 3
+            },
+            {
+              "descriptor": "USA, SC,  Belton, Home Office",
+              "id": "094a0cd6eed71000b851e1d6b8d90000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, SC,  Bennettsville, Home Office",
+              "id": "094a0cd6eed71000b84b7df50bbf0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, SC,  Charleston, Home Office",
+              "id": "094a0cd6eed71000b82d5731e0d40000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, SC, Florence",
+              "id": "094a0cd6eed71000b85b7ac9cf730000",
+              "count": 12
+            },
+            {
+              "descriptor": "USA, SC,  Florence, Home Office",
+              "id": "094a0cd6eed71000b82eebd0a5850000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, SC, Greenville, 1 Research Drive",
+              "id": "094a0cd6eed71000b861057e8bda0000",
+              "count": 2
+            },
+            {
+              "descriptor": "USA, SC,  Greenville, Home Office",
+              "id": "094a0cd6eed71000b833ede291040000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, SD, Remote",
+              "id": "094a0cd6eed71000b830113752330000",
+              "count": 2
+            },
+            {
+              "descriptor": "USA, TN,  Alamo, Home Office",
+              "id": "094a0cd6eed71000b84653e053c30000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, TN, Athens, 260 Dennis St.",
+              "id": "7c2ced88123f10015485560466170000",
+              "count": 1
+            },
+            {
+              "descriptor": "USA, TN,  Athens, Home Office",
+              "id": "094a0cd6eed71000b835ae7e81c10000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, TN,  Brentwood, Home Office",
+              "id": "094a0cd6eed71000b84ec7a59d700000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, TN,  Calhoun, Home Office",
+              "id": "094a0cd6eed71000b834b2a9e3540000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, TN,  Chattanooga, Home Office",
+              "id": "094a0cd6eed71000b83c1e500f3c0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, TN,  Kingsport, Home Office",
+              "id": "094a0cd6eed71000b8683dc985cc0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, TN, Memphis",
+              "id": "094a0cd6eed71000b82bd97b8cd30000",
+              "count": 6
+            },
+            {
+              "descriptor": "USA, TN,  Morristown, Home Office",
+              "id": "094a0cd6eed71000b83536db1d7e0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, TN, Mount Juliet",
+              "id": "094a0cd6eed71000b82b101907670000",
+              "count": 4
+            },
+            {
+              "descriptor": "USA, TN,  Mount Juliet, Home Office",
+              "id": "094a0cd6eed71000b84306f81b9a0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, TN,  Nashville, Home Office",
+              "id": "094a0cd6eed71000b8359531677e0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, TN, Portland",
+              "id": "094a0cd6eed71000b8432c2b34980000",
+              "count": 1
+            },
+            {
+              "descriptor": "USA, TN,  Portland, Home Office",
+              "id": "094a0cd6eed71000b852cd03bce60000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, TN,  Rogersville, Home Office",
+              "id": "094a0cd6eed71000b8399a678d8d0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, TN, Selmer",
+              "id": "094a0cd6eed71000b82ff6c704fe0000",
+              "count": 10
+            },
+            {
+              "descriptor": "USA, TN,  Selmer, Home Office",
+              "id": "094a0cd6eed71000b838506ae6910000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, TX,  Deer Park, Home Office",
+              "id": "094a0cd6eed71000b86ac0dd48020000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, TX,  Houston, Home Office",
+              "id": "094a0cd6eed71000b82edd629bb80000",
+              "count": 11
+            },
+            {
+              "descriptor": "USA, TX,  Irving, Home Office",
+              "id": "094a0cd6eed71000b8544fad49820000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, TX,  Schertz, Home Office",
+              "id": "094a0cd6eed71000b850a27e75d30000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, TX,  Sugar Land, Home Office",
+              "id": "094a0cd6eed71000b84486aa5c9b0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, TX,  Texarkana, Home Office",
+              "id": "094a0cd6eed71000b86404ed5bd00000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, UT,  Layton, Home Office",
+              "id": "094a0cd6eed71000b868be94e80d0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, UT, Salt Lake City",
+              "id": "094a0cd6eed71000b842dd8524190000",
+              "count": 2
+            },
+            {
+              "descriptor": "USA, UT,  Taylorsville, Home Office",
+              "id": "094a0cd6eed71000b8381440371c0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, VA,  Bland, Home Office",
+              "id": "094a0cd6eed71000b82e769cbeec0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, VA,  Salem, Home Office",
+              "id": "094a0cd6eed71000b85594a102020000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, VA,  South Boston, Home Office",
+              "id": "094a0cd6eed71000b864d9abb6820000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, VT, Remote",
+              "id": "094a0cd6eed71000b84f62c461200000",
+              "count": 3
+            },
+            {
+              "descriptor": "USA, WA,  Kent, Home Office",
+              "id": "094a0cd6eed71000b84ee21bb89a0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, WA,  Redmond, Home Office",
+              "id": "094a0cd6eed71000b82b600b432d0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, WA,  Richland, Home Office",
+              "id": "094a0cd6eed71000b829f667f0720000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, WA,  Seattle, Home Office",
+              "id": "094a0cd6eed71000b829809015110000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, WA, Vancouver",
+              "id": "094a0cd6eed71000b83381a7ea880000",
+              "count": 1
+            },
+            {
+              "descriptor": "USA, WI, Green Lake, Home Office",
+              "id": "fe4dd9ae700f1001390ed364e8cb0000",
+              "count": 5
+            },
+            {
+              "descriptor": "USA, WI,  Nekoosa, Home Office",
+              "id": "094a0cd6eed71000b84a9b1443740000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, WI, New Berlin, 18250 W Lincoln Avenue",
+              "id": "094a0cd6eed71000b82b6f12939c0000",
+              "count": 1
+            },
+            {
+              "descriptor": "USA, WI,  Port Edwards, Home Office",
+              "id": "094a0cd6eed71000b8461422aec30000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, WI,  Rothschild, Home Office",
+              "id": "094a0cd6eed71000b845696849e80000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, WI,  Stevens Point, Home Office",
+              "id": "094a0cd6eed71000b852f7bf413a0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, WI,  Wisconsin Rapids, Home Office",
+              "id": "094a0cd6eed71000b82a0c0a640b0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, WV,  Charleston, Home Office",
+              "id": "094a0cd6eed71000b83f9da51ecf0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, WV,  Lewisburg, Home Office",
+              "id": "094a0cd6eed71000b8300799751f0000",
+              "count": 8
+            },
+            {
+              "descriptor": "USA, WY, Remote",
+              "id": "094a0cd6eed71000b831b61d838e0000",
+              "count": 4
+            },
+            {
+              "descriptor": "Utrecht, Utrecht, Netherlands",
+              "id": "094a0cd6eed71000b84ee6ee3d4b0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Vaasa, Ostrobothnia, Finland",
+              "id": "094a0cd6eed71000b838bfda9b970000",
+              "count": 9
+            },
+            {
+              "descriptor": "Vaasa, Ostrobothnia, Finland",
+              "id": "094a0cd6eed71000b86bd84911ee0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Vadodara, Gujarat, India",
+              "id": "094a0cd6eed71000b82f17192eb30000",
+              "count": 6
+            },
+            {
+              "descriptor": "Vadodara, Gujarat, India",
+              "id": "094a0cd6eed71000b86696fa66170000",
+              "count": 1
+            },
+            {
+              "descriptor": "Vaesteras, Sweden",
+              "id": "094a0cd6eed71000b837b543db1a0000",
+              "count": 9
+            },
+            {
+              "descriptor": "Vaesteras, Sweden",
+              "id": "094a0cd6eed71000b866001b01ec0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Vaesteras, Vastmanland County, Sweden",
+              "id": "094a0cd6eed71000b861e94507790000",
+              "count": 45
+            },
+            {
+              "descriptor": "Valladolid, Valladolid, Spain",
+              "id": "094a0cd6eed71000b83be6646ef60000",
+              "count": 1
+            },
+            {
+              "descriptor": "Vega Alta, Puerto Rico",
+              "id": "094a0cd6eed71000b841870ae9db0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Vega Baja, Puerto Rico",
+              "id": "094a0cd6eed71000b83ae9c91eb80000",
+              "count": 1
+            },
+            {
+              "descriptor": "Vignate, Milano, Italy",
+              "id": "094a0cd6eed71000b84eaefc74e50000",
+              "count": 1
+            },
+            {
+              "descriptor": "Vittuone, Milano, Italy",
+              "id": "094a0cd6eed71000b859e300f7580000",
+              "count": 8
+            },
+            {
+              "descriptor": "Vocklabruck, Upper Austria, Austria",
+              "id": "094a0cd6eed71000b8691e4400450000",
+              "count": 1
+            },
+            {
+              "descriptor": "Wals-Siezenheim, Salzburg, Austria",
+              "id": "094a0cd6eed71000b853ab0879330000",
+              "count": 1
+            },
+            {
+              "descriptor": "Wals-Siezenheim, Salzburg, Austria",
+              "id": "094a0cd6eed71000b83a0ab0f84c0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Warrington, Cheshire, United Kingdom",
+              "id": "094a0cd6eed71000b8349c5d84420000",
+              "count": 9
+            },
+            {
+              "descriptor": "Warrington, Cheshire, United Kingdom",
+              "id": "094a0cd6eed71000b84ce1f880640000",
+              "count": 1
+            },
+            {
+              "descriptor": "Warsaw, Poland",
+              "id": "094a0cd6eed71000b827d3824e410000",
+              "count": 2
+            },
+            {
+              "descriptor": "Warszawa, Masovian, Poland",
+              "id": "094a0cd6eed71000b82fe68bc0710000",
+              "count": 5
+            },
+            {
+              "descriptor": "Wels, Upper Austria, Austria",
+              "id": "094a0cd6eed71000b849603bd9600000",
+              "count": 1
+            },
+            {
+              "descriptor": "West Sacramento, California, United States of America",
+              "id": "9b7397e105ea1001fa45d6fbebb80000",
+              "count": 1
+            },
+            {
+              "descriptor": "Wiener Neudorf, Lower Austria, Austria",
+              "id": "094a0cd6eed71000b836773f8aa70000",
+              "count": 8
+            },
+            {
+              "descriptor": "Wroclaw, Lower Silesian, Poland",
+              "id": "094a0cd6eed71000b82ae731e56f0000",
+              "count": 5
+            },
+            {
+              "descriptor": "Wuhan, Hubei, China",
+              "id": "094a0cd6eed71000b85c47b434e30000",
+              "count": 4
+            },
+            {
+              "descriptor": "Wuxi, Jiangsu, China",
+              "id": "094a0cd6eed71000b830927cd17c0000",
+              "count": 3
+            },
+            {
+              "descriptor": "Xiamen, Fujian, China",
+              "id": "094a0cd6eed71000b85a5cfa69e80000",
+              "count": 79
+            },
+            {
+              "descriptor": "Xiamen, Fujian, China",
+              "id": "094a0cd6eed71000b85a8e3db9db0000",
+              "count": 2
+            },
+            {
+              "descriptor": "Xinhui, Guangdong, China",
+              "id": "094a0cd6eed71000b82e880a2aa70000",
+              "count": 6
+            },
+            {
+              "descriptor": "Yangzhong, Jiangsu, China",
+              "id": "116645074e481001422f3168a7360000",
+              "count": 1
+            },
+            {
+              "descriptor": "Yangzhong, Jiangsu, China",
+              "id": "094a0cd6eed71000b8668021cb360000",
+              "count": 1
+            },
+            {
+              "descriptor": "Zagreb, Grad Zagreb, Croatia",
+              "id": "094a0cd6eed71000b832f4e6fc870000",
+              "count": 7
+            },
+            {
+              "descriptor": "Zaragoza, Zaragoza, Spain",
+              "id": "094a0cd6eed71000b8541e53b7180000",
+              "count": 3
+            },
+            {
+              "descriptor": "Zell am Moos, Upper Austria, Austria",
+              "id": "9b7397e105ea1001fa4374c5f8ae0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Zhengzhou, Henan, China",
+              "id": "094a0cd6eed71000b8516b1d61390000",
+              "count": 2
+            },
+            {
+              "descriptor": "Zurich, Zurich, Switzerland",
+              "id": "094a0cd6eed71000b843485cbe1f0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Zuzwil, St. Gallen, Switzerland",
+              "id": "094a0cd6eed71000b85fa873547c0000",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "facetParameter": "distance",
+      "descriptor": "Distance",
+      "values": [
+        {
+          "descriptor": "10 miles",
+          "id": "a538cdb60a631000078a2c60ed1700f3",
+          "count": 1
+        },
+        {
+          "descriptor": "25 miles",
+          "id": "a538cdb60a631000078a2c6a410300f4",
+          "count": 1
+        },
+        {
+          "descriptor": "50 miles",
+          "id": "a538cdb60a631000078a2c6eadd300f5",
+          "count": 1
+        },
+        {
+          "descriptor": "100 miles",
+          "id": "a538cdb60a631000078a2c71efcc00f6",
+          "count": 1
+        },
+        {
+          "descriptor": "Any Distance",
+          "id": "a538cdb60a631000078a2c74f73b00f7",
+          "count": 1
+        }
+      ]
+    }
+  ],
+  "userAuthenticated": false
+}

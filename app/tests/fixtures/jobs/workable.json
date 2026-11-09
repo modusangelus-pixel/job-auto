@@ -1,0 +1,151 @@
+{
+ "name": "Exotec",
+ "description": "",
+ "jobs": [
+  {
+   "title": "Account Manager - Warehouse Automation",
+   "shortcode": "0D5CDB123C",
+   "code": "",
+   "employment_type": "Full-time",
+   "telecommuting": false,
+   "department": "Maintenance",
+   "url": "https://apply.workable.com/j/0D5CDB123C",
+   "shortlink": "https://apply.workable.com/j/0D5CDB123C",
+   "application_url": "https://apply.workable.com/j/0D5CDB123C/apply",
+   "published_on": "2026-10-07",
+   "created_at": "2026-10-07",
+   "country": "Japan",
+   "city": "Tokyo",
+   "state": "Tokyo",
+   "education": "Bachelor's Degree",
+   "experience": "Mid-Senior level",
+   "function": "Engineering",
+   "industry": "Logistics and Supply Chain",
+   "locations": [
+    {
+     "country": "Japan",
+     "countryCode": "JP",
+     "city": "Tokyo",
+     "region": "Tokyo",
+     "hidden": false
+    }
+   ]
+  },
+  {
+   "title": "Acheteur IT senior (achats indirects)",
+   "shortcode": "C005979099",
+   "code": null,
+   "employment_type": "Full-time",
+   "telecommuting": false,
+   "department": "Supply Chain",
+   "url": "https://apply.workable.com/j/C005979099",
+   "shortlink": "https://apply.workable.com/j/C005979099",
+   "application_url": "https://apply.workable.com/j/C005979099/apply",
+   "published_on": "2026-11-04",
+   "created_at": "2026-09-18",
+   "country": "France",
+   "city": "Lille",
+   "state": "Hauts-de-France",
+   "education": null,
+   "experience": "Mid-Senior level",
+   "function": "Supply Chain",
+   "industry": null,
+   "locations": [
+    {
+     "country": "France",
+     "countryCode": "FR",
+     "city": "Lille",
+     "region": "Hauts-de-France",
+     "hidden": false
+    }
+   ]
+  },
+  {
+   "title": "Apprenticeship - Business Developer & Event Specialist",
+   "shortcode": "6A3F9079C9",
+   "code": "",
+   "employment_type": "Part-time",
+   "telecommuting": false,
+   "department": null,
+   "url": "https://apply.workable.com/j/6A3F9079C9",
+   "shortlink": "https://apply.workable.com/j/6A3F9079C9",
+   "application_url": "https://apply.workable.com/j/6A3F9079C9/apply",
+   "published_on": "2026-06-29",
+   "created_at": "2026-06-29",
+   "country": "Germany",
+   "city": "Munich",
+   "state": "Bavaria",
+   "education": "",
+   "experience": "Internship",
+   "function": "Business Development",
+   "industry": "Logistics and Supply Chain",
+   "locations": [
+    {
+     "country": "Germany",
+     "countryCode": "DE",
+     "city": "Munich",
+     "region": "Bavaria",
+     "hidden": false
+    }
+   ]
+  },
+  {
+   "title": "Business Developer Leader",
+   "shortcode": "A0603905B1",
+   "code": "",
+   "employment_type": "Full-time",
+   "telecommuting": false,
+   "department": "Marketing & Sales",
+   "url": "https://apply.workable.com/j/A0603905B1",
+   "shortlink": "https://apply.workable.com/j/A0603905B1",
+   "application_url": "https://apply.workable.com/j/A0603905B1/apply",
+   "published_on": "2026-10-08",
+   "created_at": "2026-10-08",
+   "country": "Germany",
+   "city": "Munich",
+   "state": "Bavaria",
+   "education": "",
+   "experience": "Mid-Senior level",
+   "function": "",
+   "industry": "Logistics and Supply Chain",
+   "locations": [
+    {
+     "country": "Germany",
+     "countryCode": "DE",
+     "city": "Munich",
+     "region": "Bavaria",
+     "hidden": false
+    }
+   ]
+  },
+  {
+   "title": "Business Developer Leader",
+   "shortcode": "A0603905B1",
+   "code": "",
+   "employment_type": "Full-time",
+   "telecommuting": false,
+   "department": "Marketing & Sales",
+   "url": "https://apply.workable.com/j/A0603905B1",
+   "shortlink": "https://apply.workable.com/j/A0603905B1",
+   "application_url": "https://apply.workable.com/j/A0603905B1/apply",
+   "published_on": "2026-10-08",
+   "created_at": "2026-10-08",
+   "country": "Netherlands",
+   "city": "Amsterdam",
+   "state": "North Holland",
+   "education": "",
+   "experience": "Mid-Senior level",
+   "function": "",
+   "industry": "Logistics and Supply Chain",
+   "locations": [
+    {
+     "country": "Netherlands",
+     "countryCode": "NL",
+     "city": "Amsterdam",
+     "region": "North Holland",
+     "hidden": false
+    }
+   ]
+  }
+ ]
+}

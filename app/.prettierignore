@@ -1,0 +1,9 @@
+out
+dist
+pnpm-lock.yaml
+LICENSE.md
+tsconfig.json
+tsconfig.*.json
+src/main/geo/*.json
+src/renderer/src/assets/countries.json
+src/renderer/src/assets/places.json
