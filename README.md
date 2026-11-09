@@ -12,7 +12,7 @@ What step 1 does:
 
 ## Install
 
-1. Build the installer (see below), or take `JOB-AUTO-Setup-<version>.exe` from `app/dist/`.
+1. Download `JOB-AUTO-Setup-<version>.exe` from the [latest release](https://github.com/modusangelus-pixel/job-auto/releases/latest), or build it yourself (see [Build from source](#build-from-source)).
 2. Run it. Windows SmartScreen will warn, because the installer isn't code-signed. Choose **More info → Run anyway**.
 3. Start **JOB-AUTO** from the Start menu or the desktop shortcut.
 
@@ -135,13 +135,13 @@ The Microsoft Store version of Claude Desktop gives the programs it starts their
 Requirements: Windows and Node.js 24. No Visual Studio is needed: the database library (better-sqlite3) comes with a ready-made build for Windows.
 
 ```bash
-cd JOB-AUTO/app
+cd app
 npm install
 npm test
 npm run build:win
 ```
 
-The installer is written to `JOB-AUTO/app/dist/`. `npm run build:unpack` builds just the app folder, `dist/win-unpacked/`, which is quicker.
+The installer is written to `app/dist/`. `npm run build:unpack` builds just the app folder, `dist/win-unpacked/`, which is quicker.
 
 `npm test` never touches the network or Claude. One extra check does, and only when asked: it imports your tracker into a temporary database and has the real lookup settle 5 companies with Claude (a few minutes, on your Claude plan). It never touches your `JOB-AUTO` folder:
 
